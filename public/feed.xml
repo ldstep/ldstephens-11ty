@@ -10,6 +10,274 @@
     <name>ldstephens</name>
   </author>
   <entry>
+    <title>The proper order for listing the modifier keys in a keyboard shortcut on Mac</title>
+    <link href="https://ldstephens.me/posts/the-proper-order-for-listing-the-modifier-keys-in-a-keyboard-shortcut-on-mac/" />
+    <updated>2024-07-24T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/the-proper-order-for-listing-the-modifier-keys-in-a-keyboard-shortcut-on-mac/</id>
+    <content type="html">&lt;p&gt;Posted on July 24, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;If you write about Mac keyboard shortcuts, as I do there’s a proper order for listing the modifier keys in a shortcut.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://leancrew.com/all-this/2017/11/modifier-key-order/&quot;&gt;Dr. Drang&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The proper order is similar to how you see them down at the bottom left of your keyboard.&lt;/p&gt;
+&lt;p&gt;Control (⌃), Option (⌥), and Command (⌘) always go in that order. The oddball is the Shift(⇧) key, which sneaks in just in front of Command.&lt;/p&gt;
+&lt;p&gt;Keyboard Maestro recognizes this standard order and presents its “hot key” shortcut the same way.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;http://leancrew.com/all-this/images2017/20171119-Keyboard%20Maestro%20hot%20key%20field.png&quot; alt=&quot;Keyboard Maestro hot key field&quot; title=&quot;Keyboard Maestro hot key field&quot;&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Goodlinks - Highlighting is Here!</title>
+    <link href="https://ldstephens.me/posts/goodlinks-highlighting-is-here/" />
+    <updated>2024-07-29T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/goodlinks-highlighting-is-here/</id>
+    <content type="html">&lt;p&gt;Posted on July 29, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;Hey friends, &lt;a href=&quot;https://goodlinks.app/&quot;&gt;Goodlinks&lt;/a&gt; is my all-time favorite read-later and bookmarking app. With the release of version 2.0, overnight highlighting is finally here! GoodLinks serves as both a bookmark manager and a read-it-later app. It’s a one-time &#92;$9.99 purchase in the App Store, requiring no account on any web server. Your links and downloaded articles live on your devices, with the option to sync via iCloud. It’s a universal app, available on Mac, iPhone, and iPad. Highlighting is a premium feature for only &#92;$4.99 per year.&lt;/p&gt;
+&lt;p&gt;If you’re looking for a great read-later and bookmarking app at a reasonable price give it a try.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2.0 Release Notes:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You can now highlight important information within articles and add notes to them, making it easier for you to remember key passages. Additionally, you can export highlights in Markdown format for seamless integration with other apps. This update also adds support for new Shortcuts actions, allowing you to retrieve, edit, delete, and open highlights. And to further optimize your workflow, the Highlight widget has been introduced, ensuring quick access to your annotated content right from your home screen.&lt;/p&gt;
+&lt;p&gt;GoodLinks Premium: Highlighting is the first premium feature of GoodLinks Premium, an optional subscription allows you to continue getting access to all new features released one year after your date of purchase. If you purchased the app within the last 12 months, you will get Highlighting for free, with no additional purchase required. For users who purchased the app earlier, it will require you to subscribe to unlock. Once unlocked, these features are yours to keep forever, even if you choose to unsubscribe right after subscribing. GoodLinks Premium brings a more sustainable business model to the app, allowing us to invest in more features and ensuring the app&#39;s long-term development.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Paste clipboard content as plain-text on Mac</title>
+    <link href="https://ldstephens.me/posts/paste-clipboard-content-as-plain-text-on-mac/" />
+    <updated>2024-08-01T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/paste-clipboard-content-as-plain-text-on-mac/</id>
+    <content type="html">&lt;p&gt;Posted on August 1, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;To paste clipboard content as plain text on a Mac, you can use a simple keyboard shortcut. Here’s how:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Copy your text as usual (Command + C).&lt;/li&gt;
+&lt;li&gt;Paste as plain text with the following shortcut:&lt;/li&gt;
+&lt;li&gt;Press &lt;strong&gt;Command + Option + Shift + V&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This will strip any formatting and paste the text as plain text.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>When &quot;Check Spelling While Typing&quot; breaks on Mac, do this to fix it</title>
+    <link href="https://ldstephens.me/posts/when-check-spelling-while-typing-breaks-on-mac-do-this-to-fix-it/" />
+    <updated>2024-08-04T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/when-check-spelling-while-typing-breaks-on-mac-do-this-to-fix-it/</id>
+    <content type="html">&lt;p&gt;Posted on August 4, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;Yesterday, while doing some writing on my MacBook Air, I realized &amp;quot;Check Spelling While Typing&amp;quot; wasn&#39;t working. I have no idea why it had stopped working. What the fuck? I guess it&#39;s one of the those things that just happen on a Mac occasionally. Anyway if this ever happens to you here&#39;s how to fix it.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Open Terminal and copy and paste the following:&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;defaults write -g NSAllowContinuousSpellChecking -bool true&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Restart the affected apps (or your whole computer)&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Mac frustrations</title>
+    <link href="https://ldstephens.me/posts/mac-frustrations/" />
+    <updated>2024-08-10T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/mac-frustrations/</id>
+    <content type="html">&lt;p&gt;Posted on August 10, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;Hey friends, last Saturday I wrote this in my journal:&lt;/p&gt;
+&lt;h4&gt;04 August 2024 10:56 AM&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Yesterday while writing on my MacBook I realized that Check Spelling While Typing was broken. I have no idea how it happened or for how long it had been broken. But it kinda pissed me off. Shit like that doesn&#39;t happen on iPadOS. I love my iPad. In many ways, macOS is fucking frustrating.&lt;/p&gt;
+&lt;p&gt;I&#39;ve committed to using my iPad only for the next week to see if I can get back in the swing of things to make my iPad my main computing device. I know that I can. It&#39;s just different.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Now, after a full week of not touching my M1 MacBook Air, I’ve got some thoughts. The only out-of-the-ordinary thing I did was moving all my tasks from Things to Goodtask, which, honestly, was easier on my iPad than it would’ve been on my MacBook.&lt;/p&gt;
+&lt;p&gt;I love my iPad, but it’s not going to replace my Mac. As I’ve realized before, I&#39;ve got too many automations with Alfred, Keyboard Maestro, PopClip, Moom, and Hazel that are deeply ingrained in how I work. I just can’t make the switch.&lt;/p&gt;
+&lt;p&gt;Oh, and by the way, I solved the issues with my Mac.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Add words to the Mac dictionary</title>
+    <link href="https://ldstephens.me/posts/add-words-to-the-mac-dictionary/" />
+    <updated>2024-08-11T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/add-words-to-the-mac-dictionary/</id>
+    <content type="html">&lt;p&gt;Posted on August 11, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;There are two ways to add words to your Mac&#39;s local dictionary. The most common method is to right-click on a word and select &amp;quot;Ignore Spelling&amp;quot; to remove the red squiggly line. Alternatively, you can use the &amp;quot;Learn Spelling&amp;quot; option to permanently add the word to your Mac&#39;s dictionary.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>How to use Visual Lookup on iOS</title>
+    <link href="https://ldstephens.me/posts/how-to-use-visual-lookup-on-ios/" />
+    <updated>2024-08-13T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/how-to-use-visual-lookup-on-ios/</id>
+    <content type="html">&lt;p&gt;Posted on August 13, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;Visual Lookup is a handy tool that you can use to identify and learn about plants, trees, insects, wildlife, pets, and more. I knew that there are apps for that but I didn’t know the iOS built-in camera also does it.&lt;/p&gt;
+&lt;p&gt;I often see a plant, tree, animal, or bug on our property and wonder what it is. Now I know how to identify it.&lt;/p&gt;
+&lt;p&gt;Steps:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Take a photo of the object that you want to identify.&lt;/li&gt;
+&lt;li&gt;Go to the Photos app and open the image you want to identify.&lt;/li&gt;
+&lt;li&gt;Look for the info button. It looks like a small “i” or a star. It’s typically located at the bottom of the screen.&lt;/li&gt;
+&lt;li&gt;Tap the info button. This will display details about the photo.&lt;/li&gt;
+&lt;li&gt;Tap Look Up. This option will appear at the top of the photo information.&lt;/li&gt;
+&lt;li&gt;Visual Lookup will provide information about the identified object, such as its name, species, or relevant details.&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Freedom to App-Hop</title>
+    <link href="https://ldstephens.me/posts/freedom-to-app-hop/" />
+    <updated>2024-08-16T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/freedom-to-app-hop/</id>
+    <content type="html">&lt;p&gt;Posted on August 16, 2024 by Loren&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I’m going to use whatever apps I feel like using on any given day. That’s just the way I am. The trick is to stop thinking that I need to choose something &lt;em&gt;for good&lt;/em&gt;. I can just pick up whichever tool gives me the best vibes right now and stop worrying about which is “best”.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://baty.blog/2024/08/monday-august-12-2024&quot;&gt;Jack Baty&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I&#39;m like this when it comes to writing apps. I feel like I need to pick an app and stick with it. But the truth is, some days I like to write in Drafts other days I like to write in MarkEdit as I’m doing now. And then on another day, I’ll use iA Writer.&lt;/p&gt;
+&lt;p&gt;I also do this with my RSS aggregator apps. I bounce around between Reeder, NetNewsWire, and Unread.&lt;/p&gt;
+&lt;p&gt;Then there’s the Mac or iPad conundrum.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The trick is to stop thinking that I need to choose something and stick with it forever&lt;/strong&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>How to move a file or folder from one disk to another on a Mac</title>
+    <link href="https://ldstephens.me/posts/how-to-move-a-file-or-folder-from-one-disk-to-another-on-a-mac/" />
+    <updated>2024-08-17T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/how-to-move-a-file-or-folder-from-one-disk-to-another-on-a-mac/</id>
+    <content type="html">&lt;p&gt;Posted on August 17, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;To move a file or folder from one disk to another, you must hold down the Command key when dragging its icon from one disk to another. The little Copying Files window even changes to read Moving Files.&lt;/p&gt;
+&lt;p&gt;You probably already know how to do this but I always forget and have to look it up.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Apple tech podcast detox</title>
+    <link href="https://ldstephens.me/posts/apple-tech-podcast-detox/" />
+    <updated>2024-08-18T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/apple-tech-podcast-detox/</id>
+    <content type="html">&lt;p&gt;Posted on August 18, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;As I’ve gotten older, I&#39;ve been simplifying my life in various ways. But one area still needs work: my technology addiction.&lt;/p&gt;
+&lt;p&gt;Over the years, I’ve built the perfect tech stack apps, devices, and automations all setup just like I want them. I’m no longer interested in tinkering with new apps; it’s a waste of time and money. And I’m definitely not interested in being told I need a Mac to get real work done when my iPad works just fine. Frankly, that’s bullshit! That said I prefer my MacBook.&lt;/p&gt;
+&lt;p&gt;These external pressures come from the Apple tech podcasts I’ve been listening to for years. But I’m done being influenced. So, I’m cutting the influencers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mac Power Users&lt;/li&gt;
+&lt;li&gt;Automators&lt;/li&gt;
+&lt;li&gt;Upgrade&lt;/li&gt;
+&lt;li&gt;Connected&lt;/li&gt;
+&lt;li&gt;iPad Pros&lt;/li&gt;
+&lt;li&gt;ATP&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <title>How to Turn Off &quot;iPhone Maybe Too Close&quot; Notification</title>
+    <link href="https://ldstephens.me/posts/how-to-turn-off-iphone-maybe-too-close-notification/" />
+    <updated>2024-08-22T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/how-to-turn-off-iphone-maybe-too-close-notification/</id>
+    <content type="html">&lt;p&gt;Posted on August 22, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;The &amp;quot;iPhone Maybe Too Close&amp;quot; notification is part of the Screen Distance feature introduced in iOS 17. This feature aims to reduce eye strain by reminding users to keep their iPhone at least 12 inches from their eyes. Once disabled, your iPhone will no longer remind you to move it away from your eyes.​​​​​​​​​​​​​​​​&lt;/p&gt;
+&lt;p&gt;To disable:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Open Settings app&lt;/li&gt;
+&lt;li&gt;Go to Screen Time&lt;/li&gt;
+&lt;li&gt;Select Screen Distance&lt;/li&gt;
+&lt;li&gt;Toggle off the feature&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Notes for iOS, iPadOS 18 and macOS Sequoia</title>
+    <link href="https://ldstephens.me/posts/notes-for-ios-ipados-18-and-macos-sequoia/" />
+    <updated>2024-08-25T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/notes-for-ios-ipados-18-and-macos-sequoia/</id>
+    <content type="html">&lt;p&gt;Posted on August 25, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;This is my list of things that I want to look into after the new OS releases:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.macrumors.com/2024/06/10/ios-18-automatic-passkey-update/&quot;&gt;iOS 18 and macOS Sequoia Let Websites and Apps Automatically Update Existing Logins to Passkeys - MacRumors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://macmost.com/whats-coming-in-macos-sequoia.html&quot;&gt;What&#39;s Coming In macOS Sequoia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=wL0_ZPnTRuY&quot;&gt;What’s New in Apple Notes in iOS 18?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.macrumors.com/2024/06/26/icloud-keep-downloaded-option-ios-18-macos-sequoia/&quot;&gt;iCloud &#39;Keep Downloaded&#39; Option Included in iOS 18 and macOS Sequoia - MacRumors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.appsntips.com/remove-camera-from-lock-screen-on-iphone/&quot;&gt;How to Remove Camera from Lock Screen on iPhone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.macrumors.com/guide/ios-18-notes-app/&quot;&gt;iOS 18 Notes App: All the New Features - MacRumors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://9to5mac.com/2024/07/11/heres-how-apple-intelligence-will-improve-your-writing-in-ios-18yes-even-you/&quot;&gt;Here’s how Apple Intelligence will improve your writing in iOS 18 - 9to5Mac&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <title>What’s in My Mac Menubar</title>
+    <link href="https://ldstephens.me/posts/whats-in-my-mac-menubar/" />
+    <updated>2024-08-29T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/whats-in-my-mac-menubar/</id>
+    <content type="html">&lt;p&gt;Posted on August 29, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;Hey friends, here are nine Menubar apps that I rely on daily to keep my MacBook workflow smooth, organized, and efficient. Each of these utilities has a special role in making my tasks easier—automating file management, boosting productivity, or keeping my digital life secure. Let me walk you through my go-to apps that make every day more stress-free!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hazel&lt;/strong&gt;: Automates file organization with powerful rules, keeping your Mac organized without effort.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HoudahSpot&lt;/strong&gt;: Supercharges your search with advanced filters, helping you find files faster.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yoink&lt;/strong&gt;: A handy shelf for dragging and dropping files, making file transfers between apps quick and easy.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DropZone&lt;/strong&gt;: A versatile app streamlining file sharing, moving, and other repetitive tasks with customizable actions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ChatGPT&lt;/strong&gt;: An AI assistant for quick brainstorming or answering questions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PopClip&lt;/strong&gt;: Boosts your productivity by adding a customizable pop-up menu whenever you highlight text.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ScreenFloat&lt;/strong&gt;: Captures screenshots that float on top of other windows, letting you reference information.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bitwarden&lt;/strong&gt;: A secure and open-source password manager that keeps your credentials safe and accessible.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HiddenBar&lt;/strong&gt;: Helps keep your menubar clutter-free by hiding unnecessary icons, giving you a clean and minimalist look.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These apps each add extra efficiency to my Mac.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Mac tip - assign custom keyboard shortcuts for menu items in most Mac apps</title>
+    <link href="https://ldstephens.me/posts/mac-tip-assign-custom-keyboard-shortcuts-for-menu-items-in-most-mac-apps/" />
+    <updated>2024-09-19T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/mac-tip-assign-custom-keyboard-shortcuts-for-menu-items-in-most-mac-apps/</id>
+    <content type="html">&lt;p&gt;Posted on September 19, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;Hey friends, I want to share a great free app I discovered for Mac:&lt;a href=&quot;https://www.houdah.com/customShortcuts/&quot;&gt;CustomShortcuts&lt;/a&gt; by Houdah Software.&lt;/p&gt;
+&lt;p&gt;CustomShortcuts allows you to create, manage, and customize keyboard shortcuts for menu items in most Mac applications. This is particularly useful for frequently used menu items that don&#39;t have default shortcuts assigned.&lt;/p&gt;
+&lt;p&gt;Houdah also makes &lt;a href=&quot;https://www.houdah.com/houdahSpot/&quot;&gt;HoudahSpot&lt;/a&gt;, a powerful alternative to Finder&#39;s search function.&lt;/p&gt;
+&lt;p&gt;Give CustomShortcuts a try!&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Home Depot and Apple Pay</title>
+    <link href="https://ldstephens.me/posts/home-depot-and-apple-pay/" />
+    <updated>2024-10-09T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/home-depot-and-apple-pay/</id>
+    <content type="html">&lt;p&gt;Posted on October 9, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;Home Depot is gradually rolling out Apple Pay support, according to reports from &lt;a href=&quot;https://9to5mac.com/2024/10/08/home-depot-apple-pay-support/&quot;&gt;Chance Miller at 9to5Mac&lt;/a&gt; readers and social media. While the company hasn’t officially commented, the rollout started in select stores over the summer and has recently expanded.&lt;/p&gt;
+&lt;p&gt;I haven’t been to Home Depot in a couple of weeks, so I’m not sure if our local store has it yet, but I’ll definitely check. Apple Pay is my go-to, and we buy a ton of shit from Home Depot. It’s always frustrating when I can’t use Apple Pay at checkout.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Yoink Bug on macOS Sequoia</title>
+    <link href="https://ldstephens.me/posts/yoink-bug-on-macos-sequoia/" />
+    <updated>2024-10-09T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/yoink-bug-on-macos-sequoia/</id>
+    <content type="html">&lt;p&gt;Posted on October 9, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;Hey friends, if you’re using &lt;a href=&quot;https://eternalstorms.at/yoink/mac/&quot;&gt;Yoink&lt;/a&gt; on macOS Sequoia (15.0/15.0.1), you might have noticed an annoying bug where Yoink stops accepting files. I’ve personally run into this issue, and it’s affecting many users of apps that handle file URLs and rely on security-scoped bookmarks.&lt;/p&gt;
+&lt;p&gt;The root cause? A macOS bug in the “ScopedBookmarkAgent” process, confirmed by a CoreOS engineer on the Apple Developer Forums. Unfortunately, 3rd-party developers can’t fix this—Apple has to.&lt;/p&gt;
+&lt;p&gt;The good news: macOS 15.1 is expected to fix the issue, and things should return to normal!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;As a temporary workaround, you can:– Quit Yoink (or any other afflicted app)– Using Activity Monitor.app, quit the ScopedBookmarkAgent process– Relaunch Yoink (or any other afflicted app), and it should work again (for a while)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.eternalstorms.at/2024/10/09/psa-a-bug-in-macos-15-sequoia-is-causing-issues-in-yoink-transloader-and-other-devs-apps/&quot;&gt;Matthias&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Rant - Internet service provider bullshit</title>
+    <link href="https://ldstephens.me/posts/rant-internet-service-provider-bullshit/" />
+    <updated>2024-10-11T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/rant-internet-service-provider-bullshit/</id>
+    <content type="html">&lt;p&gt;Posted on October 11, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;I’m writing this because I need to get it off my chest. When we moved to New Jersey seven years ago, we got our internet service through Optimum. They had an attractive price for the first year. After that, you go to whatever the current standard price happens to be at the time. Every year since, I’ve had to call and renegotiate a price for the next 12 months.&lt;/p&gt;
+&lt;p&gt;For the last several years, our price has been $64.99 per month for 1 Gig. Occasionally the negotiations are simple, and they just roll over the previous pricing, but most times, it’s a real pain in the ass. Well, yesterday was one of those times.&lt;/p&gt;
+&lt;p&gt;After haggling with the agent for about 30 minutes, we arrived at a price that was reasonable but not what I wanted but okay. It required replacing the old cable with new fiber optic cable. The agent wanted me to schedule the appointment for the install, but I told him I needed to speak with my wife since she works from home and can’t be disconnected from the internet. I explained that I’d have to call back to schedule an appointment that worked for her.&lt;/p&gt;
+&lt;p&gt;This is where things went sideways. The agent said the offer was only valid while we were on the phone and that I needed to agree and schedule the appointment right then. That’s when the shit hit the fan. I told the agent that I didn’t appreciate being put in the position of having to make a decision like that and that I wouldn’t. I told the agent that Optimum could stick their deal where the sun don’t shine. Good bye!&lt;/p&gt;
+&lt;p&gt;My next move was to sign into my Verizon Wireless account on my iPhone and sign up for FIOS. The price was $64.99 per month for 1 Gig with a 4-year price guarantee. I signed up scheduled my install appointment for a time that worked for my wife, and I didn’t have to talk to anyone. Now that’s the way I like it. I should have done this years ago.&lt;/p&gt;
+&lt;p&gt;Okay, I feel better now that I’ve said my piece.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>How I manage my clipboard history on iPhone and iPad</title>
+    <link href="https://ldstephens.me/posts/how-i-manage-my-clipboard-history-on-iphone-and-ipad/" />
+    <updated>2024-10-14T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/how-i-manage-my-clipboard-history-on-iphone-and-ipad/</id>
+    <content type="html">&lt;p&gt;Posted on October 14, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;Hey friends, I was hoping for a clipboard manager in iOS and iPadOS 18. But we didn’t get one. This was no big deal for me because, though. I’ve had a clipboard history manager for iOS since, I think, around 2018 or 2019.&lt;/p&gt;
+&lt;p&gt;I know you’re thinking, how is that possible? It’s a little-known clipboard monitoring feature in &lt;a href=&quot;https://eternalstorms.at/yoink/ios/&quot;&gt;Yoink&lt;/a&gt;. I can’t tell you how handy it is to have a clipboard history available, particularly when I’m using my iPad.&lt;/p&gt;
+&lt;p&gt;Yoink leverages Picture-in-Picture (PiP) to secretly monitor your clipboard. This lets it stay active even when you close the app. To activate clipboard monitoring, tap the &amp;quot;+&amp;quot; button, then &amp;quot;Monitor Clipboard,&amp;quot; and select a timeout or &amp;quot;No Timeout.&amp;quot; You&#39;ll need to confirm your choice.&lt;/p&gt;
+&lt;p&gt;If this interests you, Federico Viticci has a &lt;a href=&quot;https://www.macstories.net/ios/yoink-brings-background-clipboard-monitoring-to-ios-and-ipados-15-via-picture-in-picture-workaround/#:~:text=Specifically%2C%20Yoink%20uses%20Apple&#39;s%20Picture,save%20it%20into%20the%20main&quot;&gt;detailed post&lt;/a&gt; explaining how it works and how to set it up.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
     <title>Re - The wonderful rabbit hole of BBEdit</title>
     <link href="https://ldstephens.me/posts/re-the-wonderful-rabbit-hole-of-bbedit/" />
     <updated>2024-10-15T00:00:00Z</updated>
