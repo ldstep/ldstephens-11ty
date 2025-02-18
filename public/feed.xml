@@ -10,26 +10,136 @@
     <name>ldstephens</name>
   </author>
   <entry>
-    <title>Re - Digital responsibilities</title>
-    <link href="https://ldstephens.me/posts/posts/re-digital-responsibilities/" />
-    <updated>2024-02-03T00:00:00Z</updated>
-    <id>https://ldstephens.me/posts/posts/re-digital-responsibilities/</id>
-    <content type="html">&lt;p&gt;Posted on December 14, 2024 by Loren&lt;/p&gt;
-&lt;p&gt;I recently read &lt;a href=&quot;https://manuelmoreale.com/digital-responsibilities&quot;&gt;Manu&#39;s blog post&lt;/a&gt; about a post going viral on Hacker News. After being shared on Hacker News by someone, his website experienced a massive traffic spike that would make most website owners nervous.&lt;/p&gt;
-&lt;p&gt;What caught my attention wasn&#39;t just the traffic surge but Manu&#39;s reflections on the broader question of online content sharing and the potential impact of sending unexpected waves of internet traffic to someone&#39;s website.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;And so I’m wondering, if my site was big enough to cause problems, would then be my responsibility to be careful what I link to? Or should I just assume that other people out there know what they’re doing and I can keep linking without a second thought? My gut reaction tells me that it’s not really my responsibility to worry about the way other people run their sites but maybe I’m wrong and I should worry about that. &lt;strong&gt;I’d love to know what you think because this is one of those situations where I can see good arguments on both sides.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;ldstephens is a static site that runs on Netlify’s Free Plan. Here’s how it works:&lt;/p&gt;
+    <title>Colophon</title>
+    <link href="https://ldstephens.me/posts/2024-11-16-colophon/" />
+    <updated>2024-11-16T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/2024-11-16-colophon/</id>
+    <content type="html">&lt;p&gt;Posted on November 16, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;Hey friends, building this site has been a several-month project. I had a lot of stops and starts, but in the end, I persevered and it’s finally finished.&lt;/p&gt;
+&lt;p&gt;This blog is built using static &lt;a href=&quot;https://htmlforpeople.com/&quot;&gt;HTML and CSS&lt;/a&gt; and is hosted on &lt;a href=&quot;https://www.netlify.com/&quot;&gt;Netlify&lt;/a&gt;. It automatically deploys when I commit changes to the &lt;a href=&quot;https://github.com/ldstep/ldstephens&quot;&gt;public GitHub repo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;When adding new posts, changing the design, or adding new features, that is done in &lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;VS Code&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;New posts are written in Markdown in &lt;a href=&quot;https://getdrafts.com/&quot;&gt;Drafts&lt;/a&gt; and copied as HTML to add to a new post in VS Code.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Using AI to help you build your first static website</title>
+    <link href="https://ldstephens.me/posts/using-ai-to-help-you-build-your-first-static-website/" />
+    <updated>2024-11-18T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/using-ai-to-help-you-build-your-first-static-website/</id>
+    <content type="html">&lt;p&gt;Posted on November 18, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;As a newcomer with little or no HTML or CSS experience, you&#39;re going to need guidance building your static site. While YouTube videos and Google searches offer fragmented advice, I found a more comprehensive approach using &lt;a href=&quot;https://claude.ai/new&quot;&gt;Claude AI&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Claude helped me develop HTML and CSS templates. It provided accurate, actionable, and tailored advice that addressed my specific development needs. Claude transformed complex web development concepts into digestible, actionable steps. It also recommended using &lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;VS Code&lt;/a&gt; for coding and &lt;a href=&quot;https://www.netlify.com/&quot;&gt;Netlify&lt;/a&gt; for hosting and walked me through setting it up via GitHub.&lt;/p&gt;
+&lt;p&gt;You can do the same thing with ChatGPT but I found Claude to be more precise and helpful.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Mac tip - navigating and selecting text from the keyboard</title>
+    <link href="https://ldstephens.me/posts/mac-tip-navigating-and-selecting-text-from-the-keyboard/" />
+    <updated>2024-11-20T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/mac-tip-navigating-and-selecting-text-from-the-keyboard/</id>
+    <content type="html">&lt;p&gt;Posted on November 20, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;Hey friends, I have Gary’s &lt;a href=&quot;https://macmost.com/&quot;&gt;MacMost Mac Video Tutorials and Tips&lt;/a&gt; in my RSS feed and the other day I saved this video &lt;a href=&quot;https://macmost.com/10-things-you-didnt-know-you-could-do-with-just-the-keyboard.html&quot;&gt;10 Things You Didn’t Know You Could Do With Just the Keyboard&lt;/a&gt; in Goodlinks to watch later. Well, I finally got around to watching it. By the way, if you love the Mac, MacMost is a great resource for tons of tutorials on how to use your Mac better.&lt;/p&gt;
+&lt;p&gt;This video highlights hidden macOS tricks for text navigation and selection using the keyboard. Here’s the gist:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;100 GB monthly bandwidth&lt;/li&gt;
-&lt;li&gt;10 GB storage&lt;/li&gt;
-&lt;li&gt;Progressive usage notifications at 50%, 75%, 90%, and 100% of monthly limits&lt;/li&gt;
-&lt;li&gt;Automatic site suspension if monthly limits are exceeded&lt;/li&gt;
-&lt;li&gt;Quick upgrade option to continue site availability&lt;/li&gt;
+&lt;li&gt;Use the arrow keys to move the text cursor back and forth.&lt;/li&gt;
+&lt;li&gt;Hold the &lt;strong&gt;Shift key&lt;/strong&gt; while using the arrow keys to select text:&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shift + Right Arrow&lt;/strong&gt; selects one character at a time.&lt;/li&gt;
+&lt;li&gt;You can type, replace, or paste over the selected text.&lt;/li&gt;
+&lt;li&gt;Use the &lt;strong&gt;Option key&lt;/strong&gt; for word-based movement:&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Option + Right/Left Arrow&lt;/strong&gt; jumps by word.&lt;/li&gt;
+&lt;li&gt;Add &lt;strong&gt;Shift&lt;/strong&gt; to select one word at a time (&lt;strong&gt;Shift + Option + Right/Left Arrow&lt;/strong&gt;).&lt;/li&gt;
+&lt;li&gt;Use the &lt;strong&gt;Up/Down Arrow keys&lt;/strong&gt; to navigate vertically:&lt;/li&gt;
+&lt;li&gt;Add &lt;strong&gt;Shift&lt;/strong&gt; to select text while moving up or down.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Option + Down Arrow&lt;/strong&gt; jumps by paragraph.&lt;/li&gt;
+&lt;li&gt;Add &lt;strong&gt;Shift&lt;/strong&gt; to select paragraphs (&lt;strong&gt;Shift + Option + Down Arrow&lt;/strong&gt;), and use &lt;strong&gt;Down Arrow&lt;/strong&gt; repeatedly to select multiple paragraphs.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;As you can see a Hacker News viral moment could use up 100 GB of bandwidth fairly easily and could potentially suspend my site until the next month.&lt;/p&gt;
-&lt;p&gt;I think what Manu is asking is how I would feel if he shared one of my posts and it, for some reason, went viral and, exceeded my bandwidth limit and knocked my site offline. Would I feel that he had any responsibility? My answer is no. It’s my responsibility to manage my site, and he is welcome to share anything that I write, just as I’m sharing what he wrote in this post and responding to it.&lt;/p&gt;
+&lt;p&gt;Check it out, you’ll probably pick up a few new tricks!&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Re - The App Store era must end, and the Mac is the model</title>
+    <link href="https://ldstephens.me/posts/re-the-app-store-era-must-end-and-the-mac-is-the-model/" />
+    <updated>2024-11-21T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/re-the-app-store-era-must-end-and-the-mac-is-the-model/</id>
+    <content type="html">&lt;p&gt;Posted on November 21, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;In his Macworld article, &lt;a href=&quot;https://www.macworld.com/article/2525708&quot;&gt;Jason Snell&lt;/a&gt; makes a strong argument for why the Mac’s software ecosystem should be the model for iOS and iPadOS. Unlike iOS’s strict, App Store-only model, macOS has a more flexible approach to software distribution that has a balance between security and user freedom.&lt;/p&gt;
+&lt;p&gt;Here’s how it works:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;App Store Apps: These are the most secure and Apple-approved, meeting strict standards. Macs can even be set to run only these apps, but it’s not the default.&lt;/li&gt;
+&lt;li&gt;Notarized Apps: Developers can distribute apps outside the App Store by submitting them for an automated Apple scan. These apps are safer than fully unverified software, as Apple’s cryptographic signature ensures they’re untampered and from known developers.&lt;/li&gt;
+&lt;li&gt;Non-Notarized Apps: These come with no Apple oversight, often from open-source or niche developers. While less secure, they’re still an option for users willing to take the risk.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This system would let iOS and iPadOS users choose what they want without putting their safety at risk, just like Apple does on macOS.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Cancel a drag and drop on Mac</title>
+    <link href="https://ldstephens.me/posts/cancel-a-drag-and-drop-on-mac/" />
+    <updated>2024-11-23T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/cancel-a-drag-and-drop-on-mac/</id>
+    <content type="html">&lt;p&gt;Posted on November 23, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;While walking this morning and listening to ATP episode 614, the subject of how to cancel a drag and drop came up again. Of course, &lt;a href=&quot;https://hypercritical.co/about/&quot;&gt;John Siracusa&lt;/a&gt; knew the answer. I didn’t. I was glad to learn the answer because there have been times that I have started a drag and drop to move files to a different folder, and for some reason, it gets fucked up (user error missing the target folder), and I always panic and want to end the drag and drop.&lt;/p&gt;
+&lt;p&gt;According to John, all you need to do is &lt;strong&gt;use the escape key&lt;/strong&gt;. I tested it and it works.&lt;/p&gt;
+&lt;p&gt;Thanks, John!&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>To POSSE or not to POSSE</title>
+    <link href="https://ldstephens.me/posts/to-posse-or-not-to-posse/" />
+    <updated>2024-11-25T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/to-posse-or-not-to-posse/</id>
+    <content type="html">&lt;p&gt;Posted on November 25, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://indieweb.org/POSSE&quot;&gt;POSSE&lt;/a&gt;? It stands for &amp;quot;Publish on your Own Site, Syndicate Elsewhere&amp;quot; - basically where you post stuff on your site first, then share it around on social media and whatnot, always linking back to your original post.&lt;/p&gt;
+&lt;p&gt;Thing is, I&#39;ve been wondering if I should be doing this. And for me, it&#39;s clearly no. Since I don&#39;t use social media, why would I want to put my blog posts there? Sure, maybe I&#39;d pick up a few more RSS subscribers, but that&#39;s not why I&#39;m blogging in the first place.&lt;/p&gt;
+&lt;p&gt;My blog is its own thing. It’s mainly just a place to get my thoughts out there. My RSS followers are my people, and I pick up new ones now and then when other bloggers link to something I wrote. And that’s perfectly fine with me.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Sticking My Head in the Sand (But Not Really)</title>
+    <link href="https://ldstephens.me/posts/sticking-my-head-in-the-sand-but-not-really/" />
+    <updated>2024-11-26T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/sticking-my-head-in-the-sand-but-not-really/</id>
+    <content type="html">&lt;p&gt;Posted on November 26, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;I’ve spent way too much time over the last 12 months paying way too much &lt;em&gt;fucking&lt;/em&gt; attention to political news. The US election is over. I’m over it. I’ve purged all news from my RSS feed, including any blogs that can’t resist regularly interjecting politics into their content. Gone. Done. Also? No more 24-hour news channels.&lt;/p&gt;
+&lt;p&gt;I’m old. I want to enjoy what’s left of this ride. I don’t want to spend my final years fretting about everything that’s coming down the pike that I don’t agree with. Do I care? Hell yes, I care. But let’s be real, there’s nothing I can do to change it. And let’s face it, nobody’s going to be thrilled with everything that’s coming anyway, no matter who you voted for.&lt;/p&gt;
+&lt;p&gt;So, am I sticking my head in the sand? Nope. I’m still watching the national news on broadcast TV, you know, the regular stuff that gives me what I need to know without dragging me into the political abyss. I’ll stay informed, but the days of letting politics hijack my fucking sanity are over.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Re - My advice to iPhone users considering a move to Android</title>
+    <link href="https://ldstephens.me/posts/re-my-advice-to-iphone-users-considering-a-move-to-android/" />
+    <updated>2024-12-01T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/re-my-advice-to-iphone-users-considering-a-move-to-android/</id>
+    <content type="html">&lt;p&gt;Posted on December 1, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;I’ve noticed that some bloggers I follow are switching from iOS to Android. I’m sure each of them has their reasons for doing so.&lt;/p&gt;
+&lt;p&gt;I moved from Android to iOS 10 years ago. Android has probably changed a lot since then, but I don’t see myself ever returning. I left Android because I wanted to stop using Google services. In addition, iOS offered better security and privacy, and consistent OS updates.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://merecivilian.com/my-advice-to-iphone-users-considering-a-move-to-android/&quot;&gt;MereCivilian&lt;/a&gt; recently switched to Android and offers some good advice for those who may be considering the switch. As I mentioned above, I stopped using Google services long ago and wouldn’t want to start again, which would be necessary with an Android phone.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Switching blogging engines</title>
+    <link href="https://ldstephens.me/posts/switching-blogging-engines/" />
+    <updated>2024-12-03T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/switching-blogging-engines/</id>
+    <content type="html">&lt;p&gt;Posted on December 3, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;I just read Jack Bay’s post &lt;a href=&quot;https://baty.net/2024/12/from-hugo-to-ghost-and-back-again/&quot;&gt;From Hugo to Ghost and back again&lt;/a&gt; about how often he switches up his blogging engine.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I can hear you all giggling. Ha ha very funny, Jack changed his blog again. I get it. Most normal people don’t change blogging engines every month or two.[…] Also, and maybe most importantly, I prefer static websites. The arguments in favor of static websites are enough, but they aren’t why I want a static site. It &lt;em&gt;feels&lt;/em&gt; better having a static website. The actual publishing part can be a pain in the ass (:::cough::, Hugo) but the results are worth it. A folder full of HTML files and some images, starting on my local drive and synced to a simple web server…mmmmm, yummy.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This reminds me a bit of myself. You may have noticed that after switching this blog to a static site, I’ve moved it back to Bearblog and then back to static a couple of times over the last few weeks. Much like Jack, it just feels better to have a static website. I take pride in something I’ve built, and my content isn’t locked inside Bear.&lt;/p&gt;
+&lt;p&gt;And yes, I agree – publishing with a static site is a pain in the ass, but it’s worth the extra effort.&lt;/p&gt;
+&lt;p&gt;To stop the constant switching, I decided to close my Bear account. In the end, this entire site is just a folder full of HTML files on my SSD, synced to GitHub and hosted on Netlify.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Drafts - the best $20 bucks I spend every year</title>
+    <link href="https://ldstephens.me/posts/drafts-the-best-20-bucks-i-spend-every-year/" />
+    <updated>2024-12-07T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/drafts-the-best-20-bucks-i-spend-every-year/</id>
+    <content type="html">&lt;p&gt;Posted on December 7, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;Hey friends, I want to give a shout-out to &lt;a href=&quot;https://getdrafts.com/&quot;&gt;Drafts&lt;/a&gt;! It’s the best $20 bucks I spend every year. I first installed Drafts in 2014, when it was only available on iOS. Then, in 2019, Drafts came to the Mac. Drafts is my all-time favorite app and is where every bit of text starts: blog ideas, random thoughts, notes, you name it.&lt;/p&gt;
+&lt;p&gt;Whenever I have an idea or a thought, I immediately open Drafts and save it. It’s my go-to for quick note-taking. I use it to outline, draft, and format all my blog posts in Markdown. I keep everything organized with tags and workspaces. It’s also my personal information dump; with its amazing search, Drafts serves as my central repository for all the random bits of info I collect. On top of that, I’ve set up custom actions that let me do just about anything with my text: sending it to other apps, emailing it, saving it as a file, formatting it, and more.&lt;/p&gt;
+&lt;p&gt;If you’ve never tried Drafts, you gotta give it a try. There’s a free version to get you started.&lt;/p&gt;
 </content>
   </entry>
   <entry>
@@ -53,10 +163,33 @@
 </content>
   </entry>
   <entry>
+    <title>Re - Digital responsibilities</title>
+    <link href="https://ldstephens.me/posts/re-digital-responsibilities/" />
+    <updated>2024-12-14T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/re-digital-responsibilities/</id>
+    <content type="html">&lt;p&gt;Posted on December 14, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;I recently read &lt;a href=&quot;https://manuelmoreale.com/digital-responsibilities&quot;&gt;Manu&#39;s blog post&lt;/a&gt; about a post going viral on Hacker News. After being shared on Hacker News by someone, his website experienced a massive traffic spike that would make most website owners nervous.&lt;/p&gt;
+&lt;p&gt;What caught my attention wasn&#39;t just the traffic surge but Manu&#39;s reflections on the broader question of online content sharing and the potential impact of sending unexpected waves of internet traffic to someone&#39;s website.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;And so I’m wondering, if my site was big enough to cause problems, would then be my responsibility to be careful what I link to? Or should I just assume that other people out there know what they’re doing and I can keep linking without a second thought? My gut reaction tells me that it’s not really my responsibility to worry about the way other people run their sites but maybe I’m wrong and I should worry about that. &lt;strong&gt;I’d love to know what you think because this is one of those situations where I can see good arguments on both sides.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;ldstephens is a static site that runs on Netlify’s Free Plan. Here’s how it works:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;100 GB monthly bandwidth&lt;/li&gt;
+&lt;li&gt;10 GB storage&lt;/li&gt;
+&lt;li&gt;Progressive usage notifications at 50%, 75%, 90%, and 100% of monthly limits&lt;/li&gt;
+&lt;li&gt;Automatic site suspension if monthly limits are exceeded&lt;/li&gt;
+&lt;li&gt;Quick upgrade option to continue site availability&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As you can see a Hacker News viral moment could use up 100 GB of bandwidth fairly easily and could potentially suspend my site until the next month.&lt;/p&gt;
+&lt;p&gt;I think what Manu is asking is how I would feel if he shared one of my posts and it, for some reason, went viral and, exceeded my bandwidth limit and knocked my site offline. Would I feel that he had any responsibility? My answer is no. It’s my responsibility to manage my site, and he is welcome to share anything that I write, just as I’m sharing what he wrote in this post and responding to it.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
     <title>App Defaults</title>
-    <link href="https://ldstephens.me/posts/posts/2024-12-24-app-defaults/" />
+    <link href="https://ldstephens.me/posts/2024-12-24-app-defaults/" />
     <updated>2024-12-16T00:00:00Z</updated>
-    <id>https://ldstephens.me/posts/posts/2024-12-24-app-defaults/</id>
+    <id>https://ldstephens.me/posts/2024-12-24-app-defaults/</id>
     <content type="html">&lt;p&gt;Posted on December 16, 2024 by Loren&lt;/p&gt;
 &lt;p&gt;Updated December 15, 2024: Inspired by &lt;a href=&quot;https://defaults.rknight.me/&quot;&gt;Hemispheric Views 097 - Duel of the Defaults&lt;/a&gt;!&lt;/p&gt;
 &lt;ul&gt;
@@ -88,9 +221,9 @@
   </entry>
   <entry>
     <title>Apple&#39;s unwanted 18.2 Mail makeover</title>
-    <link href="https://ldstephens.me/posts/posts/apples-unwanted-182-mail-makeover/" />
+    <link href="https://ldstephens.me/posts/apples-unwanted-182-mail-makeover/" />
     <updated>2024-12-21T00:00:00Z</updated>
-    <id>https://ldstephens.me/posts/posts/apples-unwanted-182-mail-makeover/</id>
+    <id>https://ldstephens.me/posts/apples-unwanted-182-mail-makeover/</id>
     <content type="html">&lt;p&gt;Posted on December 21, 2024 by Loren&lt;/p&gt;
 &lt;p&gt;I updated my iPhone to iOS 18.2 the other day and was pissed to find my Mail app hijacked by the categories and giant sender icons. I was more pissed that the update just forced these changes on me without even asking if I wanted these shitty&lt;a href=&quot;https://ldstephens.me/posts/apples-unwanted-182-mail-makeover#fn:1&quot;&gt;1&lt;/a&gt; new features.&lt;/p&gt;
 &lt;p&gt;After fucking around for a while, I figured out how to turn these annoying new features off and return to the Mail interface that’s worked perfectly fine forever.&lt;/p&gt;
@@ -112,9 +245,9 @@
   </entry>
   <entry>
     <title>People don’t give a shit about Vision Pro</title>
-    <link href="https://ldstephens.me/posts/posts/people-dont-give-a-shit-about-vision-pro/" />
+    <link href="https://ldstephens.me/posts/people-dont-give-a-shit-about-vision-pro/" />
     <updated>2024-12-27T00:00:00Z</updated>
-    <id>https://ldstephens.me/posts/posts/people-dont-give-a-shit-about-vision-pro/</id>
+    <id>https://ldstephens.me/posts/people-dont-give-a-shit-about-vision-pro/</id>
     <content type="html">&lt;p&gt;Posted on December 27, 2024 by Loren&lt;/p&gt;
 &lt;p&gt;Back in January, I wrote a post &lt;a href=&quot;https://ldstephens.me/posts/apples-vision-pro-who-actually-gives-a-shit&quot;&gt;Apple’s Vision Pro: Who actually gives a shit?&lt;/a&gt;. “Vision Pro? Who gives a shit, right? That’s probably what most folks on the sidewalk would say. And honestly, I get it.”&lt;/p&gt;
 &lt;p&gt;Yesterday, Lisa and I we went to the Apple store to buy her a new iPhone. It was my Christmas present to her. We traded in an iPhone 11 and purchased an iPhone 16 Pro. Considering the size of the crowd in the store, we were there for a little over two hours. That included purchasing the new phone, processing the trade-in, and the setting up of the new phone.&lt;/p&gt;
@@ -124,9 +257,9 @@
   </entry>
   <entry>
     <title>New Year 2025</title>
-    <link href="https://ldstephens.me/posts/posts/new-year-2025/" />
+    <link href="https://ldstephens.me/posts/new-year-2025/" />
     <updated>2025-01-01T00:00:00Z</updated>
-    <id>https://ldstephens.me/posts/posts/new-year-2025/</id>
+    <id>https://ldstephens.me/posts/new-year-2025/</id>
     <content type="html">&lt;p&gt;Posted on January 1, 2025 by Loren&lt;/p&gt;
 &lt;p&gt;Here we are again - another year has flown by! They seem to go by faster and faster, and 2024 was no exception. It’s hard to believe we’re already in 2025.&lt;/p&gt;
 &lt;p&gt;While I’m not one to dwell too much on the past, I will say that 2024 was a good year for Lisa and me. Looking ahead, my hope for 2025 is to continue living a healthy lifestyle and making the most of each day. I’ve got a couple of significant milestones coming up this year, which I’ll likely share more about when the time comes.&lt;/p&gt;
@@ -135,9 +268,9 @@
   </entry>
   <entry>
     <title>I don’t care about your politics</title>
-    <link href="https://ldstephens.me/posts/posts/i-dont-care-about-your-politics/" />
+    <link href="https://ldstephens.me/posts/i-dont-care-about-your-politics/" />
     <updated>2025-01-05T00:00:00Z</updated>
-    <id>https://ldstephens.me/posts/posts/i-dont-care-about-your-politics/</id>
+    <id>https://ldstephens.me/posts/i-dont-care-about-your-politics/</id>
     <content type="html">&lt;p&gt;Posted on January 5, 2025 by Loren&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://samhawken.com/i-dont-care-about-your-politics/&quot;&gt;Sam Hawken&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -149,9 +282,9 @@
   </entry>
   <entry>
     <title>I’ve been doing it wrong</title>
-    <link href="https://ldstephens.me/posts/posts/ive-been-doing-it-wrong/" />
+    <link href="https://ldstephens.me/posts/ive-been-doing-it-wrong/" />
     <updated>2025-01-06T00:00:00Z</updated>
-    <id>https://ldstephens.me/posts/posts/ive-been-doing-it-wrong/</id>
+    <id>https://ldstephens.me/posts/ive-been-doing-it-wrong/</id>
     <content type="html">&lt;p&gt;Posted on January 6, 2025 by Loren&lt;/p&gt;
 &lt;p&gt;I’ve been using GitHub all wrong for this site. Instead of working from a cloned repository, I was just using a regular folder of files on my computer. Whenever I wanted to add a new post or make changes, I’d edit them in VS Code, then drag and drop the updated files directly into GitHub’s web interface. I knew this wasn’t the right way to do it, but I didn’t know any better. So, I started searching YouTube for a better way to handle it.&lt;/p&gt;
 &lt;p&gt;I came across this video &lt;a href=&quot;https://www.youtube.com/watch?v=iv8rSLsi1xo&quot;&gt;GitHub Tutorial - Beginner’s Training Guide - YouTube&lt;/a&gt; that helped immensely.&lt;/p&gt;
@@ -173,18 +306,18 @@
   </entry>
   <entry>
     <title>ldstephens - notes</title>
-    <link href="https://ldstephens.me/posts/posts/ldstephens-notes/" />
+    <link href="https://ldstephens.me/posts/ldstephens-notes/" />
     <updated>2025-01-07T00:00:00Z</updated>
-    <id>https://ldstephens.me/posts/posts/ldstephens-notes/</id>
+    <id>https://ldstephens.me/posts/ldstephens-notes/</id>
     <content type="html">&lt;p&gt;Posted on January 7, 2025 by Loren&lt;/p&gt;
 &lt;p&gt;Hey friends, I have now added a &lt;a href=&quot;https://ldstephens.me/notes&quot;&gt;notes page&lt;/a&gt; to the blog. Notes are shorter random posts, kinda like a microblog or what I would post on social media if I used social media, which I don’t. Notes include link posts as well.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>Send articles from iPhone to Kindle for reading later</title>
-    <link href="https://ldstephens.me/posts/posts/send-articles-from-iphone-to-kindle-for-reading-later/" />
+    <link href="https://ldstephens.me/posts/send-articles-from-iphone-to-kindle-for-reading-later/" />
     <updated>2025-01-09T00:00:00Z</updated>
-    <id>https://ldstephens.me/posts/posts/send-articles-from-iphone-to-kindle-for-reading-later/</id>
+    <id>https://ldstephens.me/posts/send-articles-from-iphone-to-kindle-for-reading-later/</id>
     <content type="html">&lt;p&gt;Posted on January 9, 2025 by Loren&lt;/p&gt;
 &lt;p&gt;The other day I saved an article to &lt;a href=&quot;https://goodlinks.app/&quot;&gt;Goodlinks&lt;/a&gt; to read later. Today I decided to read it and discovered that the article is a 33 minute read. I didn’t want to take the time to read it right then, I thought that’s something that I would like to read on my Kindle Paperwhite while I’m in bed this evening&lt;a href=&quot;https://ldstephens.me/posts/send-articles-from-iphone-to-kindle-for-reading-later#fn1-27410&quot;&gt;1&lt;/a&gt;. The next question is how the hell do I get this article on my Kindle?&lt;/p&gt;
 &lt;p&gt;It was easy. I opened the article on my iPhone and saved it to my Kindle via the share sheet save to Kindle. I wrote this to share a helpful tip I didn’t know about myself. If you’re interested in doing the same thing, I hope you find it useful!&lt;/p&gt;
@@ -192,18 +325,18 @@
   </entry>
   <entry>
     <title>Re - Social networking alternatives for the Meta- and Musk-averse</title>
-    <link href="https://ldstephens.me/posts/posts/re-social-networking-alternatives-for-the-/" />
+    <link href="https://ldstephens.me/posts/re-social-networking-alternatives-for-the-/" />
     <updated>2025-01-10T00:00:00Z</updated>
-    <id>https://ldstephens.me/posts/posts/re-social-networking-alternatives-for-the-/</id>
+    <id>https://ldstephens.me/posts/re-social-networking-alternatives-for-the-/</id>
     <content type="html">&lt;p&gt;Posted on January 10, 2025 by Loren&lt;/p&gt;
 &lt;p&gt;I saw this &lt;a href=&quot;https://www.theverge.com/23429095/twitter-social-network-alternatives-mastodon-reddit-tumblr-cohost&quot;&gt;Verge article&lt;/a&gt; in my RSS feed about alternatives for the Meta- and Musk-averse and wondered if blogging was provided as an alternative. Well, you probably guessed blogging was not provided as an alternative—just more social media platforms. Look folks maybe it’s time to quit social media and start a blog. If what you’re using isn’t already enshittified it will be.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>iPhone one screen setup</title>
-    <link href="https://ldstephens.me/posts/posts/iphone-one-screen-setup/" />
+    <link href="https://ldstephens.me/posts/iphone-one-screen-setup/" />
     <updated>2025-01-13T00:00:00Z</updated>
-    <id>https://ldstephens.me/posts/posts/iphone-one-screen-setup/</id>
+    <id>https://ldstephens.me/posts/iphone-one-screen-setup/</id>
     <content type="html">&lt;p&gt;Posted on January 13, 2025 by Loren&lt;/p&gt;
 &lt;p&gt;Hey friends, For the new year, I decided to clean up my iPhone&#39;s Home screen. While I&#39;ve been using just one screen for a while now, I wanted to give it a fresh start.&lt;/p&gt;
 &lt;p&gt;A few weeks ago, I removed all apps from my Home screen except for those in the Dock. My plan was to only add back the apps I use most often. For everything else, I can just use Spotlight search or App Library.&lt;/p&gt;

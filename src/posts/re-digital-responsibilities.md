@@ -1,7 +1,7 @@
 ---
 title: Re - Digital responsibilities
 description:
-date: 2024-02-03
+date: 2024-12-14
 tags:
    - posts
 layout: layouts/post.njk
