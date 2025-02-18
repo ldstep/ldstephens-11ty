@@ -10,6 +10,225 @@
     <name>ldstephens</name>
   </author>
   <entry>
+    <title>Re - The wonderful rabbit hole of BBEdit</title>
+    <link href="https://ldstephens.me/posts/re-the-wonderful-rabbit-hole-of-bbedit/" />
+    <updated>2024-10-15T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/re-the-wonderful-rabbit-hole-of-bbedit/</id>
+    <content type="html">&lt;p&gt;Posted on October 15, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;I&#39;ve used the free version of BBEdit starting back when the free version was TextWrangler. The only thing I used it for up to now was for the occasional time that I needed to write something in a plain text editor. When I decided to build a blog using html and css, I decided to pay for the full version of &lt;a href=&quot;https://www.barebones.com/products/bbedit/&quot;&gt;BBEdit&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Inspired by &lt;a href=&quot;https://thejollyteapot.com/&quot;&gt;Nicolas Magand&lt;/a&gt;, now that I own the full version of BBEdit, I figured I should use it for writing markdown blog posts. Most markdown editors have keyboard shortcuts for bold, italic, and links, but not BBEdit. Since Nicolas switched from &lt;a href=&quot;https://thejollyteapot.com/2024/09/27/the-wonderful-rabbit-hole-of-bbedit&quot;&gt;MarkEdit to BBEdit&lt;/a&gt; I figured he must have figured something out for this. And, of course, he had:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I can share with you a zip of the some of the script I have added to the Script folder of BBEdit, and now these actions are available in the Script menu, and therefore can be configured with a shortcut in the settings. I’ve recycled a few that I found online (from Dr Drang, Gruber, and more), and they work great.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;And as he said, they work great! Now, in addition to building my blog in BBEdit, I can also write my blog posts. (Shit, I have to figure out how to end a sentence with double space for the period. That is a hard fucking habit to break.)&lt;/p&gt;
+&lt;p&gt;Thank you for the help Nicolas!&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>If you&#39;re not already using an RSS reader you need to read this</title>
+    <link href="https://ldstephens.me/posts/if-youre-not-already-using-an-rss-reader-you-need-to-read-this/" />
+    <updated>2024-10-16T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/if-youre-not-already-using-an-rss-reader-you-need-to-read-this/</id>
+    <content type="html">&lt;p&gt;Posted on October 16, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;Cory Doctorow in his &lt;a href=&quot;https://pluralistic.net/2024/10/16/keep-it-really-simple-stupid/&quot;&gt;latest post&lt;/a&gt; on Pluralistic “You should be using an RSS reader” explains how RSS can help you reclaim your online experience from the enshittification of social media. He goes into detail on how RSS, or Really Simple Syndication, is a simple yet effective way to curate your own, ad-free feed of the web&#39;s best content. With an RSS reader, you can follow your favorite news sources, blogs, and even social media accounts, all in one place. No more endless scrolling through irrelevant content you see what you want, when you want.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;And then I had a realization: the conduit through which I experience Molly&#39;s excellent work is totally enshittification-proof, and the more I use it, the easier it is for everyone to be less enshittified.&lt;/p&gt;
+&lt;p&gt;This conduit is anti-lock-in, it works for nearly the whole internet. It is surveillance-resistant, far more accessible than the web or any mobile app interface. It is my secret super-power.&lt;/p&gt;
+&lt;p&gt;It&#39;s RSS.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Do your self a favor and &lt;a href=&quot;https://pluralistic.net/2024/10/16/keep-it-really-simple-stupid/&quot;&gt;read the article&lt;/a&gt; from start to finish. You’ll be glad you did.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Update - BBEdit rabbit hole</title>
+    <link href="https://ldstephens.me/posts/update-bbedit-rabbit-hole/" />
+    <updated>2024-10-24T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/update-bbedit-rabbit-hole/</id>
+    <content type="html">&lt;p&gt;Posted on October 24, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;The other day, I &lt;a href=&quot;https://ldstephens.me/re-the-wonderful-rabbit-hole-of-bbedit/&quot;&gt;wrote&lt;/a&gt; about the wonderful rabbit hole of BBEdit and how I now have it set for writing markdown except for one item:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;(Shit, I have to figure out how to end a sentence with double space for the period. That is a hard fucking habit to break.)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I got an email from MacOSX Guru suggesting that he does that with a Keyboard Maestro macro. I probably should have asked him for his macro, but instead, I attempted to create my own and was successful. The macro is triggered by double-tapping the spacebar which executes insert text &amp;quot;.&amp;quot; by typing.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Canceling Optimum Internet Service? Good Luck!</title>
+    <link href="https://ldstephens.me/posts/canceling-optimum-internet-service-good-luck/" />
+    <updated>2024-10-28T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/canceling-optimum-internet-service-good-luck/</id>
+    <content type="html">&lt;p&gt;Posted on October 28, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;The other day, I wrote about my experience with Optimum, our former internet service provider, and how we finally switched to Verizon FIOS. Today, Lisa called Optimum to cancel our old service.&lt;/p&gt;
+&lt;p&gt;What a fucking pain in the ass! They eventually processed the cancellation, but the hoops you have to jump through just to cancel should be illegal—and soon will be.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring&quot;&gt;Federal Trade Commission Announces Final “Click-to-Cancel” Rule Making It Easier for Consumers to End Recurring Subscriptions and Memberships&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The Federal Trade Commission today announced a &lt;a href=&quot;https://www.ftc.gov/legal-library/browse/federal-register-notices/negative-option-rule-final-rule&quot;&gt;final “click-to-cancel” rule&lt;/a&gt; that will require sellers to make it as easy for consumers to cancel their enrollment as it was to sign up. Most of the final rule’s provisions will go into effect 180 days after it is published in the Federal Register.&lt;/p&gt;
+&lt;p&gt;“Too often, businesses make people jump through endless hoops just to cancel a subscription,” said Commission Chair Lina M. Khan. “The FTC’s rule will end these tricks and traps, saving Americans time and money. Nobody should be stuck paying for a service they no longer want.”&lt;/p&gt;
+&lt;p&gt;The Commission’s updated rule will apply to almost all negative option programs in any media.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Should I Migrate to a Static Site?</title>
+    <link href="https://ldstephens.me/posts/should-i-migrate-to-a-static-site/" />
+    <updated>2024-10-28T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/should-i-migrate-to-a-static-site/</id>
+    <content type="html">&lt;p&gt;Posted on October 28, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;Over the last year, I&#39;ve become increasingly interested in static sites. This led me to learn some basic HTML and CSS with the goal of recreating my current Bearblog site (ldstephens) as a static site, potentially hosting it on GitHub Pages. I&#39;ve already completed building the new version, so the next step would be migrating all my existing posts.&lt;/p&gt;
+&lt;p&gt;A major advantage of making this switch would be full ownership of my site, eliminating my dependency on Bearblog and its subscription. This would give me complete control over my content and hosting infrastructure.&lt;/p&gt;
+&lt;p&gt;However, I&#39;m facing two main concerns about making this transition:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;RSS Feed Impact&lt;/strong&gt;: My primary concern is that changing the RSS feed URL would cause me to lose my current RSS followers, who make up the core of my audience.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Broken Links&lt;/strong&gt;: While all old links would break after the migration, this is less concerning since I no longer receive significant traffic from search results. My readership primarily comes through RSS subscriptions.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I&#39;d appreciate hearing from those who have undertaken similar migrations. What was your experience? How did you handle these challenges? Any insights would be valuable in helping me make this decision.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>16GB for everyone - MacBook Air joins the RAM upgrade party</title>
+    <link href="https://ldstephens.me/posts/16gb-for-everyone-macbook-air-joins-the-ram-upgrade-party/" />
+    <updated>2024-10-30T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/16gb-for-everyone-macbook-air-joins-the-ram-upgrade-party/</id>
+    <content type="html">&lt;p&gt;Posted on October 30, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;It’s been a long time coming—Apple’s new Mac models and the MacBook Air now come with 16GB of RAM as standard, replacing the previous 8GB. I might have to consider upgrading from my M1 Air.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Apple Intelligence first impressions</title>
+    <link href="https://ldstephens.me/posts/apple-intelligence-first-impressions/" />
+    <updated>2024-11-02T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/apple-intelligence-first-impressions/</id>
+    <content type="html">&lt;p&gt;Posted on November 2, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;Hey friends, I tried Apple Intelligence on my iPhone, but honestly, I don’t see the point. The way I use my iPhone, it didn’t really add anything useful, and it seemed to drain the battery faster, so I turned it off.&lt;/p&gt;
+&lt;p&gt;I’ve kept it turned on on my MacBook for now, but based on my early impressions, it’s still not on par with ChatGPT.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Re - On Maintaining Streaks</title>
+    <link href="https://ldstephens.me/posts/re-on-maintaining-streaks/" />
+    <updated>2024-11-03T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/re-on-maintaining-streaks/</id>
+    <content type="html">&lt;p&gt;Posted on November 3, 2024 by Loren&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A few years ago, I participated in #100DaystoOffload and the longer it went on, the quality of my posts suffered. I stopped writing because I had something to say, instead, I wrote to keep the streak alive and in doing so I was doing myself and my readers a disservice.&lt;/p&gt;
+&lt;p&gt;I now approach things with “dailyish” in mind.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://brandons-journal.com/re-on-maintaining-streaks/&quot;&gt;Brandon&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This supports a point I was making in this opinion post:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://lstep.xyz/posts/blogging-challenges-are-they-really-worth-it/&quot;&gt;Blogging Challenges: Are They Really Worth It?&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Update - Static Site</title>
+    <link href="https://ldstephens.me/posts/update-static-site/" />
+    <updated>2024-11-05T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/update-static-site/</id>
+    <content type="html">&lt;p&gt;Posted on November 5, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;First, a huge thank you to everyone who commented on my original post! After weighing the pros and cons, I&#39;ve decided that BearBlog is where I&#39;ll stay.&lt;/p&gt;
+&lt;p&gt;I gave building my static site a solid shot, creating it in raw HTML and CSS. But upkeep, adding new posts, and updating the feed.xml every time was just too tedious and error-prone. Sure, a static site generator could&#39;ve made things easier, but I found them too complex for me to fully get comfortable with.&lt;/p&gt;
+&lt;p&gt;Still, I learned a lot along the way, and it was absolutely worth the effort!&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>What’s Ahead for America Now?</title>
+    <link href="https://ldstephens.me/posts/whats-ahead-for-america-now/" />
+    <updated>2024-11-06T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/whats-ahead-for-america-now/</id>
+    <content type="html">&lt;p&gt;Posted on November 6, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;I went to bed at my normal time last night. I didn&#39;t want to stay up and watch the election results come in. I expected a Harris win. I didn&#39;t want to be stressed watching the results come in. I figured I would just get the results when I woke up this morning. Harris didn&#39;t win. Trump won the electoral college and it&#39;s looking like the popular vote as well.&lt;/p&gt;
+&lt;p&gt;As a result of this election, the United States will become a different kind of country. We have a Republican-controlled Supreme Court, Senate, and perhaps the House as well. With that, the Republicans will be unconstrained with their agenda.&lt;/p&gt;
+&lt;p&gt;The big question is will we be better off or worse off after another four years of Trump?&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>iPhone Notes Missing After Accepting New iCloud Terms? Here’s the Fix!</title>
+    <link href="https://ldstephens.me/posts/iphone-notes-missing-after-accepting-new-icloud-terms-heres-the-fix/" />
+    <updated>2024-11-07T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/iphone-notes-missing-after-accepting-new-icloud-terms-heres-the-fix/</id>
+    <content type="html">&lt;p&gt;Posted on November 7, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;Hey friends, Apple recently updated their iCloud terms and conditions, and apparently, after accepting these new terms, &lt;a href=&quot;https://www.macrumors.com/2024/11/07/how-to-fix-iphone-notes-disappearing/&quot;&gt;some iPhone users opened their Notes app to find all their notes gone&lt;/a&gt;! Luckily, I didn’t experience this myself, but some people are having this issue, and I wanted to share a simple fix to help you get those notes back if you’re one of them.&lt;/p&gt;
+&lt;p&gt;The Fix:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Open the Settings app.&lt;/li&gt;
+&lt;li&gt;Tap your name at the top (Apple Account settings).&lt;/li&gt;
+&lt;li&gt;Select iCloud.&lt;/li&gt;
+&lt;li&gt;Tap Notes.&lt;/li&gt;
+&lt;li&gt;Ensure Sync this iPhone is on (toggle it off and back on if it’s already enabled).&lt;/li&gt;
+&lt;li&gt;Open the Notes app and wait a few minutes for your notes to reappear.&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Your next iPhone could cost $300 more in the Trump administration</title>
+    <link href="https://ldstephens.me/posts/your-next-iphone-could-cost-300-more-in-the-trump-administration/" />
+    <updated>2024-11-08T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/your-next-iphone-could-cost-300-more-in-the-trump-administration/</id>
+    <content type="html">&lt;p&gt;Posted on November 8, 2024 by Loren&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If President-elect &lt;a href=&quot;https://www.washingtonpost.com/donald-trump/?itid=lk_inline_manual_2&quot;&gt;Donald Trump&lt;/a&gt; follows through with &lt;a href=&quot;https://www.washingtonpost.com/business/2024/10/16/trump-tariffs-impact-economy/&quot;&gt;sweeping new tariffs&lt;/a&gt; on anything made in China, your next iPhone could cost roughly $300 more, economists estimate.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.washingtonpost.com/technology/2024/11/08/apple-iphone-trump-tariffs-cost/&quot;&gt;Washington Post&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Apple Quietly Introduced iPhone Reboot Code Which is Locking Out Cops</title>
+    <link href="https://ldstephens.me/posts/apple-quietly-introduced-iphone-reboot-code-which-is-locking-out-cops/" />
+    <updated>2024-11-10T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/apple-quietly-introduced-iphone-reboot-code-which-is-locking-out-cops/</id>
+    <content type="html">&lt;p&gt;Posted on November 10, 2024 by Loren&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;On Thursday, &lt;a href=&quot;https://www.404media.co/police-freak-out-at-iphones-mysteriously-rebooting-themselves-locking-cops-out/&quot;&gt;404 Media reported&lt;/a&gt; that law enforcement officials were freaking out that iPhones which had been stored for examination were mysteriously rebooting themselves. At the time the cause was unclear, with the officials only able to speculate why they were being locked out of the devices. Now a day later, the potential reason why is coming into view.&lt;/p&gt;
+&lt;p&gt;“Apple indeed added a feature called ‘inactivity reboot’ in iOS 18.1.,” Dr.-Ing. Jiska Classen, a research group leader at the Hasso Plattner Institute, &lt;a href=&quot;https://x.com/naehrdine/status/1854896392797360484?ref=404media.co&quot;&gt;tweeted after 404 Media published&lt;/a&gt; on Thursday along with screenshots that they presented as the relevant pieces of code.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.404media.co/apple-quietly-introduced-iphone-reboot-code-which-is-locking-out-cops/&quot;&gt;Joseph Cox, 404 Media&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>reality is setting in</title>
+    <link href="https://ldstephens.me/posts/reality-is-setting-in/" />
+    <updated>2024-11-11T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/reality-is-setting-in/</id>
+    <content type="html">&lt;p&gt;Posted on November 11, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;Going through my RSS feed this afternoon, I came across a 9to5 Mac post that said I could get an M3 MacBook Air with 16 GB of RAM and 256 storage for $899 at Amazon or Best Buy. That got my attention, and I thought I should take advantage of that price. It’s $400 off.&lt;/p&gt;
+&lt;p&gt;Sitting here and thinking about it now, reality is setting in. That new M3 Air won’t do anything that my M1 Air isn’t already doing for me.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Independent blogs lost in search</title>
+    <link href="https://ldstephens.me/posts/independent-blogs-lost-in-search/" />
+    <updated>2024-11-12T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/independent-blogs-lost-in-search/</id>
+    <content type="html">&lt;p&gt;Posted on November 12, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;I&#39;ve been posting on &lt;a href=&quot;https://ldstephens.medium.com/&quot;&gt;Medium&lt;/a&gt; since 2015, and recently, I&#39;ve noticed a significant increase in views. This uptick seems to be related to Google&#39;s shift towards AI-powered search results.&lt;/p&gt;
+&lt;p&gt;Google&#39;s new search algorithm prioritizes content from platforms like Medium, Reddit, Stack Overflow, and Quora over traditional independent blogs. In the end, this trend is pretty fucking disheartening for independent bloggers.&lt;/p&gt;
+&lt;p&gt;It feels like the unique, personal space of an independent blog is getting lost in the noise of the big platforms. For those of us who value independent blogging, it’s a frustrating reminder that the rules of visibility online keep shifting and not in our favor.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>2024-11-14 Blog update</title>
+    <link href="https://ldstephens.me/posts/2024-11-14-blog-update/" />
+    <updated>2024-11-14T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/2024-11-14-blog-update/</id>
+    <content type="html">&lt;p&gt;Posted on November 14, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;Hey friends, as you know, I’ve been experimenting with a static site. As of today, this site is built entirely with &lt;a href=&quot;https://htmlforpeople.com/&quot;&gt;HTML and CSS&lt;/a&gt; and hosted on Netlify. It has no complex server-side processing, databases, tracking scripts, cookies, or analytics.&lt;/p&gt;
+&lt;p&gt;I considered using a static site generator but decided it wasn’t necessary for something this simple. Right now, it’s still in a testing phase. I want to make sure everything’s working smoothly, including the RSS feed. If I hit any issues, I might need to move back to Bearblog.&lt;/p&gt;
+&lt;p&gt;Let me know if you spot anything off.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Re - Bluesky? Mastodon? get your own blog instead</title>
+    <link href="https://ldstephens.me/posts/re-bluesky-mastodon-get-your-own-blog-instead/" />
+    <updated>2024-11-15T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/re-bluesky-mastodon-get-your-own-blog-instead/</id>
+    <content type="html">&lt;p&gt;Posted on November 15, 2024 by Loren&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I’ve been thinking about this sudden rush to Bluesky and I have started to use it a little more but I keep coming down to the mindset you could just get your own blog instead.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://ljpuk.net/2024/11/15/bluesky-mastodon-get-your-own-blog-instead/&quot;&gt;Lee Peterson&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I also noticed the rush to Bluesky, so I reactivated my account the other day to see what was happening. Today, I deactivated my account again. I just don’t get the point of social media. To me, it’s nonsensical (my opinion). It’s probably that I’m old school and would rather read your blog in my RSS feed.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
     <title>Colophon</title>
     <link href="https://ldstephens.me/posts/2024-11-16-colophon/" />
     <updated>2024-11-16T00:00:00Z</updated>
