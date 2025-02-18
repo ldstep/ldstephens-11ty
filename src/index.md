@@ -4,10 +4,8 @@ layout: layouts/home.njk
 
 <div class="illo-container"></div>
 
-I’m Loren, and I’m glad you stopped by my weblog.
+Hey there! I’m ldstephens, and welcome to my little corner of the internet.
 
-I’ve been blogging for over twenty years on various platforms. This is now my little corner of the internet, where I share my thoughts and opinions on life, current events, blogging, and whatever else comes to mind.
+Since 2016, I’ve been writing about how I use Apple gadgets and apps, and sharing tech tips that make my digital life easier. I also share my personal experiences, thoughts, and reflections here. (If you’re interested, you can find everything that I wrote between 2016 and 2022 mothballed [here](https://ldstephens.net/blog-archive/)).
 
-Elsewhere:
-
-I’ve been writing about how I use Apple gadgets and apps, and sharing tech tips that make my digital life easier at [ldstephens.me](https://ldstephens.me/).
+I’m glad you stopped by!

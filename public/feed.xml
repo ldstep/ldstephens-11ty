@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <title>lstep.xyz</title>
-  <subtitle>A blog by Loren.</subtitle>
-  <link href="https://lstep.xyz/feed.xml" rel="self" />
-  <link href="https://lstep.xyz/" />
+  <title>ldstephens</title>
+  <subtitle>A blog by ldstephens.</subtitle>
+  <link href="https://ldstephens.me/feed.xml" rel="self" />
+  <link href="https://ldstephens.me/" />
   <updated>2025-02-18T13:10:51Z</updated>
-  <id>https://lstep.xyz/</id>
+  <id>https://ldstephens.me/</id>
   <author>
-    <name>Loren</name>
+    <name>ldstephens</name>
   </author>
   <entry>
     <title>So You&#39;re Thinking About Monetizing Your Blog</title>
-    <link href="https://lstep.xyz/posts/so-youre-thinking-about-monetizing-your-blog/" />
+    <link href="https://ldstephens.me/posts/so-youre-thinking-about-monetizing-your-blog/" />
     <updated>2024-07-13T00:00:00Z</updated>
-    <id>https://lstep.xyz/posts/so-youre-thinking-about-monetizing-your-blog/</id>
+    <id>https://ldstephens.me/posts/so-youre-thinking-about-monetizing-your-blog/</id>
     <content type="html">&lt;p&gt;Posted on July 13, 2024 by Loren&lt;/p&gt;
 &lt;p&gt;Steve at An Almost Anonymous Blog &lt;a href=&quot;https://lwgrs.bearblog.dev/paywalls-pain-and-balance/&quot;&gt;writing about paywalls:&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -25,9 +25,9 @@
   </entry>
   <entry>
     <title>Social Media</title>
-    <link href="https://lstep.xyz/posts/social-media/" />
+    <link href="https://ldstephens.me/posts/social-media/" />
     <updated>2024-07-24T00:00:00Z</updated>
-    <id>https://lstep.xyz/posts/social-media/</id>
+    <id>https://ldstephens.me/posts/social-media/</id>
     <content type="html">&lt;p&gt;Posted on July 24, 2024 by Loren&lt;/p&gt;
 &lt;p&gt;Hey friends, let&#39;s talk social media. It&#39;s been around forever, and you know what? I gotta confess, I&#39;ve never been a huge fan. Facebook, Instagram, TikTok, Snapchat – I’ve had an account on any of them.&lt;/p&gt;
 &lt;p&gt;The closest I came was Twitter. Used to have it on and off, mainly to keep up with current events. But after that whole thing with the shitposter buying XTwitter I said fuck this and deleted my account for good.&lt;/p&gt;
@@ -37,9 +37,9 @@
   </entry>
   <entry>
     <title>Advice on Blogging</title>
-    <link href="https://lstep.xyz/posts/advice-on-blogging/" />
+    <link href="https://ldstephens.me/posts/advice-on-blogging/" />
     <updated>2024-07-27T00:00:00Z</updated>
-    <id>https://lstep.xyz/posts/advice-on-blogging/</id>
+    <id>https://ldstephens.me/posts/advice-on-blogging/</id>
     <content type="html">&lt;p&gt;Posted on July 27, 2024 by Loren&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://blog.jim-nielsen.com/2023/advice-on-blogging/&quot;&gt;Jim Nielsen&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -50,9 +50,9 @@
   </entry>
   <entry>
     <title>RSS Versus Bookmarks</title>
-    <link href="https://lstep.xyz/posts/rss-versus-bookmarks/" />
+    <link href="https://ldstephens.me/posts/rss-versus-bookmarks/" />
     <updated>2024-08-03T00:00:00Z</updated>
-    <id>https://lstep.xyz/posts/rss-versus-bookmarks/</id>
+    <id>https://ldstephens.me/posts/rss-versus-bookmarks/</id>
     <content type="html">&lt;p&gt;Posted on August 03, 2024 by Loren&lt;/p&gt;
 &lt;p&gt;Coincidentally I read two blog posts about RSS within days of each other this week. Chris is emphasizing the benefits of RSS and encouraging folks to start using it while Jason has decided to stop using it. So I thought I would chime in.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://thoughts.uncountable.uk/request-for-iphone-rss-help/&quot;&gt;Chris&lt;/a&gt;&lt;/p&gt;
@@ -71,9 +71,9 @@
   </entry>
   <entry>
     <title>Blogging Challenges - Are They Really Worth It?</title>
-    <link href="https://lstep.xyz/posts/blogging-challenges-are-they-really-worth-it/" />
+    <link href="https://ldstephens.me/posts/blogging-challenges-are-they-really-worth-it/" />
     <updated>2024-08-13T00:00:00Z</updated>
-    <id>https://lstep.xyz/posts/blogging-challenges-are-they-really-worth-it/</id>
+    <id>https://ldstephens.me/posts/blogging-challenges-are-they-really-worth-it/</id>
     <content type="html">&lt;p&gt;Posted on August 13, 2024 by Loren&lt;/p&gt;
 &lt;p&gt;As an indie blogger, our unique voice is our biggest asset. Blogging challenges, especially those requiring daily posts, often lead to low-quality content.&lt;/p&gt;
 &lt;p&gt;I prefer reading spontaneous posts that are authentic, not those written solely to meet a daily challenge goal. As a reader, I can easily tell the difference.&lt;/p&gt;
@@ -82,9 +82,9 @@
   </entry>
   <entry>
     <title>Blogging - Eliminating Distractions</title>
-    <link href="https://lstep.xyz/posts/blogging-eliminating-distractions/" />
+    <link href="https://ldstephens.me/posts/blogging-eliminating-distractions/" />
     <updated>2024-08-17T00:00:00Z</updated>
-    <id>https://lstep.xyz/posts/blogging-eliminating-distractions/</id>
+    <id>https://ldstephens.me/posts/blogging-eliminating-distractions/</id>
     <content type="html">&lt;p&gt;Posted on August 17, 2024 by Loren&lt;/p&gt;
 &lt;p&gt;This is Lionel &amp;quot;Ploum&amp;quot; Dricot &lt;a href=&quot;https://manuelmoreale.com/pb-ploum&quot;&gt;writing&lt;/a&gt; about his blog on &lt;a href=&quot;https://peopleandblogs.com/&quot;&gt;People and Blogs&lt;/a&gt;with Manu Moreale:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -100,9 +100,9 @@
   </entry>
   <entry>
     <title>15 blogging rules</title>
-    <link href="https://lstep.xyz/posts/15-blogging-rules/" />
+    <link href="https://ldstephens.me/posts/15-blogging-rules/" />
     <updated>2024-09-03T00:00:00Z</updated>
-    <id>https://lstep.xyz/posts/15-blogging-rules/</id>
+    <id>https://ldstephens.me/posts/15-blogging-rules/</id>
     <content type="html">&lt;p&gt;Posted on September 3, 2024 by Loren&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;ol&gt;
@@ -115,9 +115,9 @@
   </entry>
   <entry>
     <title>Who am I responsible to here?</title>
-    <link href="https://lstep.xyz/posts/who-am-i-responsible-to-here/" />
+    <link href="https://ldstephens.me/posts/who-am-i-responsible-to-here/" />
     <updated>2024-09-03T00:00:00Z</updated>
-    <id>https://lstep.xyz/posts/who-am-i-responsible-to-here/</id>
+    <id>https://ldstephens.me/posts/who-am-i-responsible-to-here/</id>
     <content type="html">&lt;p&gt;Posted on September 3, 2024 by Loren&lt;/p&gt;
 &lt;p&gt;&amp;quot;Whenever I change blogging platforms or domain names or simply post to several places, I feel a twinge of guilt. How will my “audience” feel about the changes? Does it confuse things?[…] I don’t get a lot of traffic, but it’s also not zero traffic, so I feel some responsibility. But why? I am not writing for money or influence or popularity. I write to better understand what I’m thinking about, and sometimes share the result. I write so that I have a record of those things. I write, almost entirely, for me.[…] In that light, I shouldn’t need to worry about whether my RSS feed is consistent or if people need to follow me in too many places. I don’t want to be a dick about it, but c’mon, it’s an unimportant personal blog by some nobody on the internet. Let’s not overthink it.&amp;quot;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://baty.net/2024/07/who-am-i-responsible-to-here/&quot;&gt;Jack Baty&lt;/a&gt;&lt;/p&gt;
@@ -125,9 +125,9 @@
   </entry>
   <entry>
     <title>Write Like You Talk</title>
-    <link href="https://lstep.xyz/posts/write-like-you-talk/" />
+    <link href="https://ldstephens.me/posts/write-like-you-talk/" />
     <updated>2024-09-03T00:00:00Z</updated>
-    <id>https://lstep.xyz/posts/write-like-you-talk/</id>
+    <id>https://ldstephens.me/posts/write-like-you-talk/</id>
     <content type="html">&lt;p&gt;Posted on September 3, 2024 by Loren&lt;/p&gt;
 &lt;p&gt;&amp;quot;Here&#39;s a simple trick for getting more people to read what you write: write in spoken language.[…] It seems to be hard for most people to write in spoken language. So perhaps the best solution is to write your first draft the way you usually would, then afterward look at each sentence and ask &amp;quot;Is this the way I&#39;d say this if I were talking to a friend?&amp;quot; If it isn&#39;t, imagine what you would say, and use that instead. After a while this filter will start to operate as you write. When you write something you wouldn&#39;t say, you&#39;ll hear the clank as it hits the page.[…] just don&#39;t let a sentence through unless it&#39;s the way you&#39;d say it to a friend.&amp;quot;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://paulgraham.com/talk.html&quot;&gt;Paul Graham&lt;/a&gt;&lt;/p&gt;
@@ -135,18 +135,18 @@
   </entry>
   <entry>
     <title>my morning walks with my dog Trixie</title>
-    <link href="https://lstep.xyz/posts/my-morning-walks-with-my-dog-trixie/" />
+    <link href="https://ldstephens.me/posts/my-morning-walks-with-my-dog-trixie/" />
     <updated>2024-09-23T00:00:00Z</updated>
-    <id>https://lstep.xyz/posts/my-morning-walks-with-my-dog-trixie/</id>
+    <id>https://ldstephens.me/posts/my-morning-walks-with-my-dog-trixie/</id>
     <content type="html">&lt;p&gt;Posted on September 23, 2024 by Loren&lt;/p&gt;
 &lt;p&gt;One of my favorite things is my morning walks with my dog Trixie and listening to a podcast. We walk every morning rain, snow, wind, or freezing temperatures. We live in such a wonderful place. Our walks are usually about two miles. We walk out our long driveway to the road. The first thing we see is the farm across the street. Then, we turn left and walk to the neighborhood where everyone knows us, down to the main road, and then back up the long road to home, where everyone waves as they drive by. This has been a morning routine for going on 7 years.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>Re - On personal websites and social web</title>
-    <link href="https://lstep.xyz/posts/re-on-personal-websites-and-social-web/" />
+    <link href="https://ldstephens.me/posts/re-on-personal-websites-and-social-web/" />
     <updated>2024-09-23T00:00:00Z</updated>
-    <id>https://lstep.xyz/posts/re-on-personal-websites-and-social-web/</id>
+    <id>https://ldstephens.me/posts/re-on-personal-websites-and-social-web/</id>
     <content type="html">&lt;p&gt;Posted on September 23, 2024 by Loren&lt;/p&gt;
 &lt;p&gt;In this blog post, &lt;a href=&quot;https://manuelmoreale.com/on-personal-websites-and-social-web&quot;&gt;Manu reflects&lt;/a&gt; on the divide between two groups regarding the future of being social on the web.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -162,18 +162,18 @@
   </entry>
   <entry>
     <title>Re - Life&#39;s Simple Pleasures</title>
-    <link href="https://lstep.xyz/posts/re-lifes-simple-pleasures/" />
+    <link href="https://ldstephens.me/posts/re-lifes-simple-pleasures/" />
     <updated>2024-09-24T00:00:00Z</updated>
-    <id>https://lstep.xyz/posts/re-lifes-simple-pleasures/</id>
+    <id>https://ldstephens.me/posts/re-lifes-simple-pleasures/</id>
     <content type="html">&lt;p&gt;Posted on September 24, 2024 by Loren&lt;/p&gt;
 &lt;p&gt;Lou Plummer, &lt;a href=&quot;https://louplummer.lol/life-s-simple-pleasures/&quot;&gt;writing about one of life’s simple pleasures&lt;/a&gt;, said, “Give me a styrofoam tray of authentic tacos from a trailer in a convenience store parking lot selling authentic Mexican street food, and I will be happy.” This made me realize how much I miss good Mexican food. My favorite meal: two cheese enchiladas with rice and beans. When I lived in Southern California, I knew all the best spots for excellent Mexican food. Seven years ago, we moved to New Jersey, and I’m still searching for a place that serves real, authentic Mexican food.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>Re - How I find interesting blogs</title>
-    <link href="https://lstep.xyz/posts/re-how-i-find-interesting-blogs/" />
+    <link href="https://ldstephens.me/posts/re-how-i-find-interesting-blogs/" />
     <updated>2024-09-30T00:00:00Z</updated>
-    <id>https://lstep.xyz/posts/re-how-i-find-interesting-blogs/</id>
+    <id>https://ldstephens.me/posts/re-how-i-find-interesting-blogs/</id>
     <content type="html">&lt;p&gt;Posted on September 30, 2024 by Loren&lt;/p&gt;
 &lt;p&gt;I like this conversation so I thought I would chime in: it revolves around how different bloggers discover new blogs. &lt;a href=&quot;https://micro.bjhess.com/2024/09/13/i-appreciate-personal.html&quot;&gt;Barry Hess&lt;/a&gt; mentions submitting his blog to various directories but notes limited traffic from them. &lt;a href=&quot;https://jrn.sh/post/how-i-find-interesting-blogs&quot;&gt;JRN&lt;/a&gt;responds, saying they prefer discovering blogs through bloggers linking to or responding to each other, social platforms like Mastodon, and blog exploration features on platforms like Micro.blog. And &lt;a href=&quot;https://thoughts.uncountable.uk/re-how-i-find-interesting-blogs/&quot;&gt;Chris&lt;/a&gt; at “uncountable thoughts” echoes JRN’s sentiment, emphasizing that blog directories aren’t heavily used for discovery; instead, contextual cross-linking between blogs is a more effective method.&lt;/p&gt;
 &lt;p&gt;I’m relatively new to the indie blogging, so I’m always on the lookout for new blogs to follow. What works best for me is when I come across a blog that references another one I almost always click through, check out the “About” page, and skim the article archives to see if their content interests me. If it does, I’ll add their blog to my RSS feed.&lt;/p&gt;
@@ -187,9 +187,9 @@
   </entry>
   <entry>
     <title>Update on lstep.xyz</title>
-    <link href="https://lstep.xyz/posts/update-on-lstepxyz/" />
+    <link href="https://ldstephens.me/posts/update-on-lstepxyz/" />
     <updated>2025-02-01T00:00:00Z</updated>
-    <id>https://lstep.xyz/posts/update-on-lstepxyz/</id>
+    <id>https://ldstephens.me/posts/update-on-lstepxyz/</id>
     <content type="html">&lt;p&gt;Posted on February 1, 2025 by Loren&lt;/p&gt;
 &lt;p&gt;In 2024, I picked up the lstep.xyz domain with the idea of using it as a space to blog about non-tech stuff. All my tech related writing happens over at &lt;a href=&quot;https://ldstephens.me/&quot;&gt;ldstephens.me&lt;/a&gt;. But honestly? The way I’ve used it so far has been all over the place. I hosted it on Pika off and on, but I was never fully settled on it.&lt;/p&gt;
 &lt;p&gt;Lately, I’ve been thinking about moving it to a static site. I finally did it. The biggest reason was that I didn’t want to be tied to a platform. That’s exactly why I moved ldstephens.me to a static site too. Sure, I love the technical challenge, but more than that, I wanted full control. Platforms change, they shut down, and they enforce rules. When you own your own site, you make the rules.&lt;/p&gt;
@@ -199,9 +199,9 @@
   </entry>
   <entry>
     <title>On Don&#39;t Make a Blog, Make a Brain Dump</title>
-    <link href="https://lstep.xyz/posts/link-post-dont-make-a-blog-make-a-brain-dump/" />
+    <link href="https://ldstephens.me/posts/link-post-dont-make-a-blog-make-a-brain-dump/" />
     <updated>2025-02-02T00:00:00Z</updated>
-    <id>https://lstep.xyz/posts/link-post-dont-make-a-blog-make-a-brain-dump/</id>
+    <id>https://ldstephens.me/posts/link-post-dont-make-a-blog-make-a-brain-dump/</id>
     <content type="html">&lt;p&gt;Posted on February 2, 2025 by Loren&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://btxx.org/posts/dump/#menu&quot;&gt;Bradley Taunt, btxx.org&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -218,9 +218,9 @@
   </entry>
   <entry>
     <title>“Unplatform” a guidebook for escaping social media</title>
-    <link href="https://lstep.xyz/posts/unplatform-a-guidebook-for-escaping-social-media/" />
+    <link href="https://ldstephens.me/posts/unplatform-a-guidebook-for-escaping-social-media/" />
     <updated>2025-02-02T00:00:00Z</updated>
-    <id>https://lstep.xyz/posts/unplatform-a-guidebook-for-escaping-social-media/</id>
+    <id>https://ldstephens.me/posts/unplatform-a-guidebook-for-escaping-social-media/</id>
     <content type="html">&lt;p&gt;Posted on February 2, 2025 by Loren&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://unplatform.fromthesuperhighway.com/&quot;&gt;Unplatform&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -231,27 +231,27 @@
   </entry>
   <entry>
     <title>11ty project update</title>
-    <link href="https://lstep.xyz/posts/11ty-project-update/" />
+    <link href="https://ldstephens.me/posts/11ty-project-update/" />
     <updated>2025-02-03T00:00:00Z</updated>
-    <id>https://lstep.xyz/posts/11ty-project-update/</id>
+    <id>https://ldstephens.me/posts/11ty-project-update/</id>
     <content type="html">&lt;p&gt;Posted on February 3, 2025 by Loren&lt;/p&gt;
 &lt;p&gt;My attempt at replicating this site using 11ty was a complete failure. The skills required for the project are beyond my capabilities. The site works great as is with pure &lt;a href=&quot;https://htmlforpeople.com/&quot;&gt;HTML and CSS&lt;/a&gt; which I know how to manage.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>11ty project</title>
-    <link href="https://lstep.xyz/posts/11ty-project/" />
+    <link href="https://ldstephens.me/posts/11ty-project/" />
     <updated>2025-02-03T00:00:00Z</updated>
-    <id>https://lstep.xyz/posts/11ty-project/</id>
+    <id>https://ldstephens.me/posts/11ty-project/</id>
     <content type="html">&lt;p&gt;Posted on February 3, 2025 by Loren&lt;/p&gt;
 &lt;p&gt;Yesterday, I decided to replicate this site in 11ty as a learning project. The first thing I did was install Node.js. When I came to the 11ty install step, the install failed. After some additional attempts, I determined the problem might be the version of Node.js that I installed. So I uninstalled Node.js. Today, I’ll install a different version and start over.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>How I use AI for writing and coding</title>
-    <link href="https://lstep.xyz/posts/how-i-use-ai-for-writing-and-coding/" />
+    <link href="https://ldstephens.me/posts/how-i-use-ai-for-writing-and-coding/" />
     <updated>2025-02-06T00:00:00Z</updated>
-    <id>https://lstep.xyz/posts/how-i-use-ai-for-writing-and-coding/</id>
+    <id>https://ldstephens.me/posts/how-i-use-ai-for-writing-and-coding/</id>
     <content type="html">&lt;p&gt;Posted on February 6, 2025 by Loren&lt;/p&gt;
 &lt;p&gt;I’ve been using AI in two ways: for help with my writing and for figuring out how to do things.&lt;/p&gt;
 &lt;p&gt;My writing skills aren’t that great. I know what I want to say and how I want to say it, but I struggle to put it into words. So, I use AI to proofread and improve the structure of what I’ve written.&lt;/p&gt;
@@ -261,9 +261,9 @@
   </entry>
   <entry>
     <title>Re - No, The People Didn’t Vote For This</title>
-    <link href="https://lstep.xyz/posts/re-no-the-people-didnt-vote-for-this/" />
+    <link href="https://ldstephens.me/posts/re-no-the-people-didnt-vote-for-this/" />
     <updated>2025-02-10T00:00:00Z</updated>
-    <id>https://lstep.xyz/posts/re-no-the-people-didnt-vote-for-this/</id>
+    <id>https://ldstephens.me/posts/re-no-the-people-didnt-vote-for-this/</id>
     <content type="html">&lt;p&gt;Posted on February 10, 2025 by Loren&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Democrats, obviously, aren’t thrilled, but the more meaningful data is that &lt;a href=&quot;https://thehill.com/homenews/administration/5129353-gop-support-for-musk-influence-with-trump-falls-dramatically-poll/&quot;&gt;Republicans don’t like what Elon Musk is doing&lt;/a&gt; at all.[…] Voters who supported Trump based on economic promises are instead seeing federal support for their local hospitals vanish, government contracts that supported thousands of local jobs disappear, and consumer prices continue to rise. The very voters who wanted economic stability are getting the opposite: economic chaos driven by an unelected billionaire’s personal agenda.&lt;/p&gt;
@@ -274,36 +274,36 @@
   </entry>
   <entry>
     <title>Sorry for all the test posts today</title>
-    <link href="https://lstep.xyz/posts/sorry-for-all-the-test-posts-today/" />
+    <link href="https://ldstephens.me/posts/sorry-for-all-the-test-posts-today/" />
     <updated>2025-02-16T21:24:26Z</updated>
-    <id>https://lstep.xyz/posts/sorry-for-all-the-test-posts-today/</id>
+    <id>https://ldstephens.me/posts/sorry-for-all-the-test-posts-today/</id>
     <content type="html">&lt;p&gt;Posted on February 16, 2025 by Loren&lt;/p&gt;
 &lt;p&gt;Hey friends, sorry for all the test posts today. I’m working on getting the RSS feed working properly, and the only way to know if it’s working correctly is with test posts.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>Test 2</title>
-    <link href="https://lstep.xyz/posts/test2/" />
+    <link href="https://ldstephens.me/posts/test2/" />
     <updated>2025-02-17T00:00:00Z</updated>
-    <id>https://lstep.xyz/posts/test2/</id>
+    <id>https://ldstephens.me/posts/test2/</id>
     <content type="html">&lt;p&gt;Posted on February 17, 2025 by Loren&lt;/p&gt;
 &lt;p&gt;Testing the RSS feed?&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>Live on 11ty at Last!</title>
-    <link href="https://lstep.xyz/posts/live-on-11ty-at-last/" />
+    <link href="https://ldstephens.me/posts/live-on-11ty-at-last/" />
     <updated>2025-02-17T16:11:34Z</updated>
-    <id>https://lstep.xyz/posts/live-on-11ty-at-last/</id>
+    <id>https://ldstephens.me/posts/live-on-11ty-at-last/</id>
     <content type="html">&lt;p&gt;Posted on February 17, 2025 by Loren&lt;/p&gt;
 &lt;p&gt;The site is finally live on 11ty! Still working on getting the RSS feed running properly--doing it manually for now. If you&#39;re an 11ty pro and can help, shoot me an email.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>Let&#39;s see how this goes</title>
-    <link href="https://lstep.xyz/posts/lets-see-how-this-goes/" />
+    <link href="https://ldstephens.me/posts/lets-see-how-this-goes/" />
     <updated>2025-02-18T13:10:51Z</updated>
-    <id>https://lstep.xyz/posts/lets-see-how-this-goes/</id>
+    <id>https://ldstephens.me/posts/lets-see-how-this-goes/</id>
     <content type="html">&lt;p&gt;Posted on February 18, 2025 by Loren&lt;/p&gt;
 &lt;p&gt;Yesterday I installed the 11ty RSS plugin. This is my first since installing it so if you get this post in your RSS feed then it’s working.&lt;/p&gt;
 &lt;p&gt;It’s a cold morning in New Jersey 20° with a wind chill of 18°. Not supposed to get out of the 20’s all day. Looks like we’ll be confined indoors all day so I’ll work on building my other blog in 11ty.&lt;/p&gt;

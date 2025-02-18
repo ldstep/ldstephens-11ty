@@ -4,7 +4,7 @@ layout: layouts/page.njk
 
 ## Colophon
 
-This blog is a static site built with [11ty](https://www.11ty.dev/), using [HTML and CSS](https://htmlforpeople.com/), and hosted on [Netlify](https://www.netlify.com/). It automatically deploys whenever I commit changes to the [public GitHub repo](https://github.com/ldstep/lstep-11ty).
+This blog is a static site built with [11ty](https://www.11ty.dev/), using [HTML and CSS](https://htmlforpeople.com/), and hosted on [Netlify](https://www.netlify.com/). It automatically deploys whenever I commit changes to the [public GitHub repo](https://github.com/ldstep/ldstephens-11ty).
 
 The domain is registered through [Hover](https://hover.com/).
 
