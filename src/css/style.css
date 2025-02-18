@@ -226,3 +226,8 @@ footer {
 h1 a {
    color: #ff79c6 !important;
 }
+hr {
+   border: none;
+   height: 2px;
+   background-color: #ff79c6;
+}
