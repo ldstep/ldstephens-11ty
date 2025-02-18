@@ -10,6 +10,262 @@
     <name>ldstephens</name>
   </author>
   <entry>
+    <title>Re - Digital responsibilities</title>
+    <link href="https://ldstephens.me/posts/posts/re-digital-responsibilities/" />
+    <updated>2024-02-03T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/posts/re-digital-responsibilities/</id>
+    <content type="html">&lt;p&gt;Posted on December 14, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;I recently read &lt;a href=&quot;https://manuelmoreale.com/digital-responsibilities&quot;&gt;Manu&#39;s blog post&lt;/a&gt; about a post going viral on Hacker News. After being shared on Hacker News by someone, his website experienced a massive traffic spike that would make most website owners nervous.&lt;/p&gt;
+&lt;p&gt;What caught my attention wasn&#39;t just the traffic surge but Manu&#39;s reflections on the broader question of online content sharing and the potential impact of sending unexpected waves of internet traffic to someone&#39;s website.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;And so I’m wondering, if my site was big enough to cause problems, would then be my responsibility to be careful what I link to? Or should I just assume that other people out there know what they’re doing and I can keep linking without a second thought? My gut reaction tells me that it’s not really my responsibility to worry about the way other people run their sites but maybe I’m wrong and I should worry about that. &lt;strong&gt;I’d love to know what you think because this is one of those situations where I can see good arguments on both sides.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;ldstephens is a static site that runs on Netlify’s Free Plan. Here’s how it works:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;100 GB monthly bandwidth&lt;/li&gt;
+&lt;li&gt;10 GB storage&lt;/li&gt;
+&lt;li&gt;Progressive usage notifications at 50%, 75%, 90%, and 100% of monthly limits&lt;/li&gt;
+&lt;li&gt;Automatic site suspension if monthly limits are exceeded&lt;/li&gt;
+&lt;li&gt;Quick upgrade option to continue site availability&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As you can see a Hacker News viral moment could use up 100 GB of bandwidth fairly easily and could potentially suspend my site until the next month.&lt;/p&gt;
+&lt;p&gt;I think what Manu is asking is how I would feel if he shared one of my posts and it, for some reason, went viral and, exceeded my bandwidth limit and knocked my site offline. Would I feel that he had any responsibility? My answer is no. It’s my responsibility to manage my site, and he is welcome to share anything that I write, just as I’m sharing what he wrote in this post and responding to it.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Re - Thoughts On Mangione</title>
+    <link href="https://ldstephens.me/posts/re-thoughts-on-mangione/" />
+    <updated>2024-12-11T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/re-thoughts-on-mangione/</id>
+    <content type="html">&lt;p&gt;Post December 11, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;I’ve been thinking a lot about the state of healthcare in America in light of the murder of the United Healthcare CEO. I have hesitated writing about how I feel about this situation, but this morning, I read Dave Rogers, Nice Marmot &lt;a href=&quot;https://nice-marmot.net/Archives/2024/December_2024.html#note_2570&quot;&gt;blog post&lt;/a&gt; about this very subject, so I thought I would say what I’m thinking.&lt;/p&gt;
+&lt;p&gt;Dave:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I hadn’t given a great deal of thought to how I feel about the murder of that CEO. (I’m not mentioning his name mostly because I can’t recall it at the moment; but also because I don’t think he’s worthy of _“Say his name!”_respect.)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Trae Crowder is a stand-up comedian who has a YouTube channel called Liberal Redneck. I watch his videos because I &lt;em&gt;need&lt;/em&gt; a laugh, and his are funny but also intelligent. &lt;a href=&quot;https://youtu.be/aUcwZTWv2PY?si=ko0YNmGuWEo1KQfm&quot;&gt;I found this one particularly thought provoking&lt;/a&gt;, which is significant because I’d been kind of going out of my way &lt;em&gt;not&lt;/em&gt; to think about it. My reaction is that I don’t find much to disagree with in his comments.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Before reading Dave’s post, I read a &lt;a href=&quot;https://www.newyorker.com/news/the-lede/what-the-murder-of-the-unitedhealthcare-ceo-brian-thompson-means-to-america&quot;&gt;New Yorker article&lt;/a&gt; by Jia Tolentino, “What the Murder of the United Healthcare C.E.O. Means to America&amp;quot; and I wanted to point out that United Healthcare denies 32% of insurance claims. Yep, nearly a third of claims submitted to this company are denied. That’s double the industry average, according to The New Yorker.&lt;/p&gt;
+&lt;p&gt;The New Yorker quoted a person who posted on Reddit’s r/nurses forum, whose profile describes her as an I.C.U. nurse, wrote, &amp;quot;Honestly, I’m not wishing anyone harm, but when you’ve spent so much time and made so much money by increasing the suffering of the humanity around you, it’s hard for me to summon empathy that you died”. Thompson, who became C.E.O. in 2021, had raised annual profits from twelve billion dollars to sixteen billion dollars during his tenure. He received more than ten million dollars in compensation last year.&lt;/p&gt;
+&lt;p&gt;Denying people the care they desperately need is fucking wrong and cruel. Yet, this level of corporate-driven harm has become so normalized in America that we barely blink at it.&lt;/p&gt;
+&lt;p&gt;I&#39;m conflicted about the whole thing.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>App Defaults</title>
+    <link href="https://ldstephens.me/posts/posts/2024-12-24-app-defaults/" />
+    <updated>2024-12-16T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/posts/2024-12-24-app-defaults/</id>
+    <content type="html">&lt;p&gt;Posted on December 16, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;Updated December 15, 2024: Inspired by &lt;a href=&quot;https://defaults.rknight.me/&quot;&gt;Hemispheric Views 097 - Duel of the Defaults&lt;/a&gt;!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mail Client: Mail&lt;/li&gt;
+&lt;li&gt;Mail Server: &lt;a href=&quot;https://www.fastmail.com/?STKI=14726057&quot;&gt;Fastmail&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Notes: Drafts, Apple Notes&lt;/li&gt;
+&lt;li&gt;To-Do: GoodTask/Reminders&lt;/li&gt;
+&lt;li&gt;iPhone Photo Shooting: iOS Camera&lt;/li&gt;
+&lt;li&gt;Photo Management: Photos&lt;/li&gt;
+&lt;li&gt;Calendar: Fantastical&lt;/li&gt;
+&lt;li&gt;Cloud File Storage: iCloud&lt;/li&gt;
+&lt;li&gt;RSS: Reeder Classic&lt;/li&gt;
+&lt;li&gt;Contacts: Contacts&lt;/li&gt;
+&lt;li&gt;Browser: Safari, Firefox&lt;/li&gt;
+&lt;li&gt;Chat: Messages&lt;/li&gt;
+&lt;li&gt;Bookmarks: Goodlinks&lt;/li&gt;
+&lt;li&gt;Read It Later: Goodlinks&lt;/li&gt;
+&lt;li&gt;Reading: Kindle Paperwhite&lt;/li&gt;
+&lt;li&gt;Podcast: Overcast&lt;/li&gt;
+&lt;li&gt;Text: Drafts, iA Writer, VS Code&lt;/li&gt;
+&lt;li&gt;Launcher: Alfred&lt;/li&gt;
+&lt;li&gt;Spreadsheets: Numbers&lt;/li&gt;
+&lt;li&gt;Shopping Lists: Reminders&lt;/li&gt;
+&lt;li&gt;Podcasts: Overcast&lt;/li&gt;
+&lt;li&gt;Password Management: Bitwarden&lt;/li&gt;
+&lt;li&gt;Weather: Carrot Weather&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Apple&#39;s unwanted 18.2 Mail makeover</title>
+    <link href="https://ldstephens.me/posts/posts/apples-unwanted-182-mail-makeover/" />
+    <updated>2024-12-21T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/posts/apples-unwanted-182-mail-makeover/</id>
+    <content type="html">&lt;p&gt;Posted on December 21, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;I updated my iPhone to iOS 18.2 the other day and was pissed to find my Mail app hijacked by the categories and giant sender icons. I was more pissed that the update just forced these changes on me without even asking if I wanted these shitty&lt;a href=&quot;https://ldstephens.me/posts/apples-unwanted-182-mail-makeover#fn:1&quot;&gt;1&lt;/a&gt; new features.&lt;/p&gt;
+&lt;p&gt;After fucking around for a while, I figured out how to turn these annoying new features off and return to the Mail interface that’s worked perfectly fine forever.&lt;/p&gt;
+&lt;p&gt;To disable sender icons, follow these steps:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Open the Settings app on your iPhone&lt;/li&gt;
+&lt;li&gt;Scroll down and tap “Apps”&lt;/li&gt;
+&lt;li&gt;Find and tap “Mail”&lt;/li&gt;
+&lt;li&gt;Locate the “Message List” section&lt;/li&gt;
+&lt;li&gt;Toggle off the switch next to “Show Contact Photos”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To disable categories, follow these steps:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Open the Mail app on your iPhone&lt;/li&gt;
+&lt;li&gt;Tap the “More” button (three dots) in the upper right corner of your inbox&lt;/li&gt;
+&lt;li&gt;Select “List View” from the pop-up menu&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <title>People don’t give a shit about Vision Pro</title>
+    <link href="https://ldstephens.me/posts/posts/people-dont-give-a-shit-about-vision-pro/" />
+    <updated>2024-12-27T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/posts/people-dont-give-a-shit-about-vision-pro/</id>
+    <content type="html">&lt;p&gt;Posted on December 27, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;Back in January, I wrote a post &lt;a href=&quot;https://ldstephens.me/posts/apples-vision-pro-who-actually-gives-a-shit&quot;&gt;Apple’s Vision Pro: Who actually gives a shit?&lt;/a&gt;. “Vision Pro? Who gives a shit, right? That’s probably what most folks on the sidewalk would say. And honestly, I get it.”&lt;/p&gt;
+&lt;p&gt;Yesterday, Lisa and I we went to the Apple store to buy her a new iPhone. It was my Christmas present to her. We traded in an iPhone 11 and purchased an iPhone 16 Pro. Considering the size of the crowd in the store, we were there for a little over two hours. That included purchasing the new phone, processing the trade-in, and the setting up of the new phone.&lt;/p&gt;
+&lt;p&gt;The Vision Pro had its own table in the back corner of the store. I was keeping my eye on it because I was curious if anyone would go over and check it out. In the two-plus hours that we were in the store, not one person went to the table to check out the Vision Pro.&lt;/p&gt;
+&lt;p&gt;So I was right. People just don’t give a shit about the Vision Pro.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>New Year 2025</title>
+    <link href="https://ldstephens.me/posts/posts/new-year-2025/" />
+    <updated>2025-01-01T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/posts/new-year-2025/</id>
+    <content type="html">&lt;p&gt;Posted on January 1, 2025 by Loren&lt;/p&gt;
+&lt;p&gt;Here we are again - another year has flown by! They seem to go by faster and faster, and 2024 was no exception. It’s hard to believe we’re already in 2025.&lt;/p&gt;
+&lt;p&gt;While I’m not one to dwell too much on the past, I will say that 2024 was a good year for Lisa and me. Looking ahead, my hope for 2025 is to continue living a healthy lifestyle and making the most of each day. I’ve got a couple of significant milestones coming up this year, which I’ll likely share more about when the time comes.&lt;/p&gt;
+&lt;p&gt;Happy New Year, and thank you for being a reader!&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>I don’t care about your politics</title>
+    <link href="https://ldstephens.me/posts/posts/i-dont-care-about-your-politics/" />
+    <updated>2025-01-05T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/posts/i-dont-care-about-your-politics/</id>
+    <content type="html">&lt;p&gt;Posted on January 5, 2025 by Loren&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://samhawken.com/i-dont-care-about-your-politics/&quot;&gt;Sam Hawken&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I have a long-standing position on politics: don’t make your politics my problem, and I won’t let mine become yours.&lt;/p&gt;
+&lt;p&gt;I am not saying that I don’t have strong political feelings because I do, but I am saying that I’m not interested in discussing that topic with anyone I wouldn’t hug. This seems to be the healthiest approach.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Whether I agree with or disagree with your politics, I don’t want to read about them. If you must write about them, I’ll remove you from my RSS feed. I agree with Sam. We all have political views, and as divided as we are over those views, the healthiest approach is to not fucking discuss them.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>I’ve been doing it wrong</title>
+    <link href="https://ldstephens.me/posts/posts/ive-been-doing-it-wrong/" />
+    <updated>2025-01-06T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/posts/ive-been-doing-it-wrong/</id>
+    <content type="html">&lt;p&gt;Posted on January 6, 2025 by Loren&lt;/p&gt;
+&lt;p&gt;I’ve been using GitHub all wrong for this site. Instead of working from a cloned repository, I was just using a regular folder of files on my computer. Whenever I wanted to add a new post or make changes, I’d edit them in VS Code, then drag and drop the updated files directly into GitHub’s web interface. I knew this wasn’t the right way to do it, but I didn’t know any better. So, I started searching YouTube for a better way to handle it.&lt;/p&gt;
+&lt;p&gt;I came across this video &lt;a href=&quot;https://www.youtube.com/watch?v=iv8rSLsi1xo&quot;&gt;GitHub Tutorial - Beginner’s Training Guide - YouTube&lt;/a&gt; that helped immensely.&lt;/p&gt;
+&lt;p&gt;What I needed to do was install GitHub Desktop and I needed to clone the repository locally.&lt;/p&gt;
+&lt;p&gt;Now GitHub Desktop connects GitHub, my local repository, and VS Code together. Here’s how it works:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Connecting to GitHub&lt;/strong&gt;: GitHub Desktop links directly to my GitHub account, so I can easily clone repositories and sync my changes with the remote repositories on GitHub.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Managing My Local Repository&lt;/strong&gt;: When I clone a repository using GitHub Desktop, it creates a local copy on my computer. This is where I make changes and commit updates.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Using Visual Studio Code (VS Code)&lt;/strong&gt;: I’ve set VS Code as my default editor in GitHub Desktop. When I click “Open in Visual Studio Code,” it opens my local repository in VS Code, ready for me to start coding.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Keeping Everything in Sync&lt;/strong&gt;:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;I write and edit my code in &lt;strong&gt;VS Code&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;GitHub Desktop tracks the changes I make and lets me commit them.&lt;/li&gt;
+&lt;li&gt;Once I’ve committed, I can push my changes to GitHub or pull updates from the remote repository when needed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Honestly, taking the time to learn GitHub Desktop has made managing my static site so much easier. I can jump into VS Code to edit, track changes locally, and sync it all with GitHub in just a couple of clicks. It’s been a fucking game-changer.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>ldstephens - notes</title>
+    <link href="https://ldstephens.me/posts/posts/ldstephens-notes/" />
+    <updated>2025-01-07T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/posts/ldstephens-notes/</id>
+    <content type="html">&lt;p&gt;Posted on January 7, 2025 by Loren&lt;/p&gt;
+&lt;p&gt;Hey friends, I have now added a &lt;a href=&quot;https://ldstephens.me/notes&quot;&gt;notes page&lt;/a&gt; to the blog. Notes are shorter random posts, kinda like a microblog or what I would post on social media if I used social media, which I don’t. Notes include link posts as well.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Send articles from iPhone to Kindle for reading later</title>
+    <link href="https://ldstephens.me/posts/posts/send-articles-from-iphone-to-kindle-for-reading-later/" />
+    <updated>2025-01-09T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/posts/send-articles-from-iphone-to-kindle-for-reading-later/</id>
+    <content type="html">&lt;p&gt;Posted on January 9, 2025 by Loren&lt;/p&gt;
+&lt;p&gt;The other day I saved an article to &lt;a href=&quot;https://goodlinks.app/&quot;&gt;Goodlinks&lt;/a&gt; to read later. Today I decided to read it and discovered that the article is a 33 minute read. I didn’t want to take the time to read it right then, I thought that’s something that I would like to read on my Kindle Paperwhite while I’m in bed this evening&lt;a href=&quot;https://ldstephens.me/posts/send-articles-from-iphone-to-kindle-for-reading-later#fn1-27410&quot;&gt;1&lt;/a&gt;. The next question is how the hell do I get this article on my Kindle?&lt;/p&gt;
+&lt;p&gt;It was easy. I opened the article on my iPhone and saved it to my Kindle via the share sheet save to Kindle. I wrote this to share a helpful tip I didn’t know about myself. If you’re interested in doing the same thing, I hope you find it useful!&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Re - Social networking alternatives for the Meta- and Musk-averse</title>
+    <link href="https://ldstephens.me/posts/posts/re-social-networking-alternatives-for-the-/" />
+    <updated>2025-01-10T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/posts/re-social-networking-alternatives-for-the-/</id>
+    <content type="html">&lt;p&gt;Posted on January 10, 2025 by Loren&lt;/p&gt;
+&lt;p&gt;I saw this &lt;a href=&quot;https://www.theverge.com/23429095/twitter-social-network-alternatives-mastodon-reddit-tumblr-cohost&quot;&gt;Verge article&lt;/a&gt; in my RSS feed about alternatives for the Meta- and Musk-averse and wondered if blogging was provided as an alternative. Well, you probably guessed blogging was not provided as an alternative—just more social media platforms. Look folks maybe it’s time to quit social media and start a blog. If what you’re using isn’t already enshittified it will be.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>iPhone one screen setup</title>
+    <link href="https://ldstephens.me/posts/posts/iphone-one-screen-setup/" />
+    <updated>2025-01-13T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/posts/iphone-one-screen-setup/</id>
+    <content type="html">&lt;p&gt;Posted on January 13, 2025 by Loren&lt;/p&gt;
+&lt;p&gt;Hey friends, For the new year, I decided to clean up my iPhone&#39;s Home screen. While I&#39;ve been using just one screen for a while now, I wanted to give it a fresh start.&lt;/p&gt;
+&lt;p&gt;A few weeks ago, I removed all apps from my Home screen except for those in the Dock. My plan was to only add back the apps I use most often. For everything else, I can just use Spotlight search or App Library.&lt;/p&gt;
+&lt;p&gt;Here’s my Home Screen:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/tmjrAb7.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>What happens on your device, stays on your device – until it doesn’t</title>
+    <link href="https://ldstephens.me/posts/what-happens-on-your-device-stays-on-your-device-until-it-doesnt/" />
+    <updated>2025-01-15T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/what-happens-on-your-device-stays-on-your-device-until-it-doesnt/</id>
+    <content type="html">&lt;p&gt;Posted on January 15, 2025 by Loren&lt;/p&gt;
+&lt;p&gt;Thanks to &lt;a href=&quot;https://decoding.io/2025/01/what-happens-on-your-device-stays-on-your-device-until-it-doesnt/&quot;&gt;Zsolt Benke&lt;/a&gt; for sharing this post from &lt;a href=&quot;https://www.obdev.at/blog/what-happens-on-your-device-stays-on-your-device-until-it-doesnt/&quot;&gt;Objective Development Blog&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;macOS Sequoia introduces another new feature labelled Help Apple Improve Search, which sends and stores various search queries from Safari, Spotlight, and other sources to improve search results.&lt;/p&gt;
+&lt;p&gt;This feature, too, is enabled by default and is well hidden at the very bottom of System Settings &amp;gt; Spotlight.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It turns out that I had disabled this setting on my iPhone, and iPad but not on my Mac so I disabled it.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Celebrated Lawyer ‘Fires’ Meta As A Client Over Zuck’s ‘Neo-Nazi Madness’</title>
+    <link href="https://ldstephens.me/posts/celebrated-lawyer-fires-meta-as-a-client-over-zucks-neo-nazi-madness/" />
+    <updated>2025-01-16T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/celebrated-lawyer-fires-meta-as-a-client-over-zucks-neo-nazi-madness/</id>
+    <content type="html">&lt;p&gt;Posted on January 16, 2025 by Loren&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.techdirt.com/2025/01/15/celebrated-lawyer-fires-meta-as-a-client-over-zucks-neo-nazi-madness/&quot;&gt;Mike Masnick&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;And earlier this week, he announced that he has “&lt;a href=&quot;https://bsky.app/profile/marklemley.bsky.social/post/3lfnpmxtam22r&quot;&gt;fired Meta as a client&lt;/a&gt;.” Lemley was representing Meta in the &lt;a href=&quot;https://www.techdirt.com/2023/07/11/a-bunch-of-authors-sue-openai-claiming-copyright-infringement-because-they-dont-understand-copyright/&quot;&gt;Kadrey v. Meta lawsuit&lt;/a&gt; regarding Meta’s use of books in training its AI. And, as the docket shows, on Monday, he withdrew as an attorney for Meta:&lt;/p&gt;
+&lt;p&gt;As Lemley noted on various social media profiles, he cannot stomach what he sees as Zuckerberg’s embrace of nonsense and this is how he is responding to “Mark Zuckerberg and Facebook’s descent into toxic masculinity and Neo-Nazi madness.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;👏👏👏&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>James’ Coffee Blog</title>
+    <link href="https://ldstephens.me/posts/james-coffee-blog/" />
+    <updated>2025-01-17T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/james-coffee-blog/</id>
+    <content type="html">&lt;p&gt;Posted on January 17, 2025 by Loren&lt;/p&gt;
+&lt;p&gt;Hey friends, the other day, I was reading a blog post (wish I could remember whose!) about the indie web. It had several links, and I clicked one that took me to &lt;a href=&quot;https://indieweb.org/&quot;&gt;indieweb.org&lt;/a&gt;. While browsing there, I stumbled upon &lt;a href=&quot;https://jamesg.blog/&quot;&gt;James’ Coffee Blog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;What really hooked me was James’ content. It’s a mix of tech and personal topics. I spent some time exploring his site and found tons of interesting articles to dive into. Needless to say, James’ Coffee Blog is now part of my RSS feed!&lt;/p&gt;
+&lt;p&gt;If you’re not already following James, check out his site. I think you’ll find it worthwhile.&lt;/p&gt;
+&lt;p&gt;This is something that I highlighted while reading one of his &lt;a href=&quot;https://jamesg.blog/2025/01/15/static-dynamic/&quot;&gt;posts&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Having a static site is significant to me because:&lt;/p&gt;
+&lt;p&gt;Static sites are fast (when engineered with performance in mind, of course!0. There is a significantly reduced admin tax. If my publishing tool goes down for any reason, my static site can still be available. I enjoy having folders of text files to edit: both markdown for posts and HTML for templates.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I couldn’t agree more, static sites offer speed, simplicity, and the satisfaction of working directly with text files!&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Don’t forget your RSS readers</title>
+    <link href="https://ldstephens.me/posts/dont-forget-your-rss-readers/" />
+    <updated>2025-01-18T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/dont-forget-your-rss-readers/</id>
+    <content type="html">&lt;p&gt;Posted on January 18, 2025 by Loren&lt;/p&gt;
+&lt;p&gt;Checking analytics for ldstephens, it appears to receive relatively few direct page views. This can sometimes be discouraging. However, I must keep in mind that my target audience isn’t solely comprised of direct visitors but rather the 360+ RSS followers who are most likely to read my posts through their RSS reader app.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
     <title>Re - Zed fonts</title>
     <link href="https://ldstephens.me/posts/re-zed-fonts/" />
     <updated>2025-01-21T00:00:00Z</updated>
