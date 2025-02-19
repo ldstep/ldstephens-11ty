@@ -1,0 +1,13 @@
+# Exact path redirects first
+/feed /feed.xml 301
+
+# Specific page paths
+/blog /blog 200
+/uses /uses 200
+/about-this-site /about-this-site 200
+
+# Dynamic post redirects
+/:slug /posts/:slug 301
+
+# Catch-all should be last
+/* /404.html 404
