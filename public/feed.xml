@@ -10,6 +10,159 @@
     <name>ldstephens</name>
   </author>
   <entry>
+    <title>I ditched Apple Podcasts after a week</title>
+    <link href="https://ldstephens.me/posts/i-ditched-apple-podcasts-after-a-week/" />
+    <updated>2024-04-19T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/i-ditched-apple-podcasts-after-a-week/</id>
+    <content type="html">&lt;p&gt;Posted on April 19, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;I&#39;ve been using &lt;a href=&quot;https://overcast.fm/&quot;&gt;Overcast&lt;/a&gt; on my iPhone to listen to podcasts for almost 10 years. However, recently I&#39;ve been hearing good things about Apple&#39;s Podcast app, so I thought I would give it a try.&lt;/p&gt;
+&lt;p&gt;After using Podcasts for a little over a week, I switched back to Overcast today. I found Podcasts confusing and clunky to use compared to Overcast. While Overcast doesn&#39;t have transcripts of shows, on the rare occasion that I need a transcript for a podcast, I can always go to the Podcasts app to get it.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Roku or Apple TV 4K - Upgrading our streaming device</title>
+    <link href="https://ldstephens.me/posts/roku-or-apple-tv-4k-upgrading-our-streaming-device/" />
+    <updated>2024-04-21T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/roku-or-apple-tv-4k-upgrading-our-streaming-device/</id>
+    <content type="html">&lt;p&gt;Posted on April 21, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;Our trusty old JVC TV, while not a smart one, is and has been a good TV. It was paired with an equally old Roku that had been giving us problems lately. Since the TV itself was still working fine, we decided to upgrade the streaming device. This led us to Roku or Apple TV 4K.&lt;/p&gt;
+&lt;p&gt;One deciding factor was the growing frustration with all the fucking ads on Roku. Then I came across this article &lt;a href=&quot;https://www.techdirt.com/2024/04/16/roku-eyes-patent-that-would-inject-ads-into-everything/&quot;&gt;Roku Eyes Patent That Would Inject Ads Into… Everything | Techdirt&lt;/a&gt; and that solidified our decision to move away from Roku.&lt;/p&gt;
+&lt;p&gt;Enter the Apple TV 4K. The speed is fantastic, and the ability to control the TV with my iPhone is a game-changer. No more frantic searching for the remote! We love our new Apple TV 4K!&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Effortlessly combine Reeder, Instapaper, and Obsidian to enhance your RSS reading experience</title>
+    <link href="https://ldstephens.me/posts/effortlessly-combine-reeder-instapaper-and-obsidian-to-enhance-your-rss-reading-experience/" />
+    <updated>2024-04-29T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/effortlessly-combine-reeder-instapaper-and-obsidian-to-enhance-your-rss-reading-experience/</id>
+    <content type="html">&lt;p&gt;Posted on April 29, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;While sitting at my desk the other day, I realized it was time to streamline my RSS reading routine. I was constantly bouncing between apps: Reeder as my RSS client, Goodlinks for saving articles to read later, and Omnivore for highlighting and listening to articles.&lt;/p&gt;
+&lt;p&gt;This juggling act felt inefficient. I decided to centralize everything in &lt;a href=&quot;https://www.reederapp.com/&quot;&gt;Reeder&lt;/a&gt;. With Reeder&#39;s built-in Read Later functionality and its integration with &lt;a href=&quot;https://www.instapaper.com/&quot;&gt;Instapaper&lt;/a&gt;, I can now manage all my reading needs in one place. I added my Instapaper account to Reeder as a “save to location,” allowing me to also read my saved Instapaper articles directly within Reeder.&lt;/p&gt;
+&lt;p&gt;But that&#39;s not all! By opening an article in Instapaper for highlighting, and thanks to the new &lt;a href=&quot;https://blog.instapaper.com/post/748647273401139200/summaries-custom-article-actions-obsidian&quot;&gt;Obsidian plugin for Instapaper&lt;/a&gt;, my highlights will effortlessly flow into Obsidian. This new approach promises a smoother, more integrated reading experience!&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>iPhone Home Screen - Why one is all I need</title>
+    <link href="https://ldstephens.me/posts/iphone-home-screen-why-one-is-all-i-need/" />
+    <updated>2024-05-14T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/iphone-home-screen-why-one-is-all-i-need/</id>
+    <content type="html">&lt;p&gt;Posted on May 14, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;Since trading in my two iPads, my iPhone 15 Pro Max has become my daily driver. This shift made me re-evaluate how I use the Home Screen for maximum efficiency. Here&#39;s the thing: I despise cluttered screens with multiple pages, folders, Today View widgets, or widget stacks. So, my challenge was to access everything I needed from a single, Home Screen.&lt;/p&gt;
+&lt;p&gt;Here’s where the “Choose from Menu” action in Apple Shortcuts comes in. The “Choose from Menu” action in Apple Shortcuts is designed to streamline iOS device automation. It allows you to create customizable menus, presenting options for you to choose from when the shortcut runs. Whether it&#39;s selecting a favorite contact, choosing from a list of apps, or picking a specific destination in a navigation app, the “Choose from Menu” action lets personalize your shortcuts and tailor them to your specific needs.&lt;/p&gt;
+&lt;p&gt;I use three “Choose from Menu” shortcuts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Other Apps:&lt;/strong&gt; This shortcut houses apps I don&#39;t use daily but still need occasionally.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;My Shortcuts:&lt;/strong&gt; This one groups my most-used shortcuts for quick access.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Read-Later Apps:&lt;/strong&gt; This shortcut brings up my favorite read-later apps like Omnivore or Instapaper.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;By placing these shortcut icons on my Home Screen, I have all my essential apps and shortcuts readily available on a single page.&lt;/p&gt;
+&lt;p&gt;I learned how to create the shortcut from this article, &lt;a href=&quot;https://www.appsntips.com/learn/create-app-launcher-shortcut/&quot;&gt;How to Create an App Launcher Using Shortcuts | appsntips&lt;/a&gt;. It explains how to create it from start to finish.&lt;/p&gt;
+&lt;p&gt;This approach might not be for everyone, but if you want a clutter-free Home Screen, give “Choose from Menu” shortcuts a try!&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Change the default app that opens files in iOS and iPadOS</title>
+    <link href="https://ldstephens.me/posts/change-the-default-app-that-opens-files-in-ios-and-ipados/" />
+    <updated>2024-06-15T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/change-the-default-app-that-opens-files-in-ios-and-ipados/</id>
+    <content type="html">&lt;p&gt;Posted on June 15, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;Since the new iPads were introduced a couple of weeks ago there has been a lot of chatter about what one can and can&#39;t do on an iPad. One of the complaints I encountered was about not being able to set a default app to open certain file types in iPadOS. You know one of those posts about why someone can&#39;t use an iPad.&lt;/p&gt;
+&lt;p&gt;Well, there is a way sorta. Let&#39;s take a .txt file. The most common files that regular users have are .txt .md or .pdf. The last app to open a file type will be the default until you open it with a different app. Here&#39;s how it works:&lt;/p&gt;
+&lt;p&gt;For example, to change the default app that opens a .txt file on your iPad, follow these steps:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Open the Files app and find the .txt file you want to change the default app for.&lt;/li&gt;
+&lt;li&gt;Tap and hold the .txt file until a menu appears, then select “Share.”&lt;/li&gt;
+&lt;li&gt;In the share sheet, you’ll see a list of apps that can open the .txt file. Choose the app you want to use.&lt;/li&gt;
+&lt;li&gt;The file will open in the selected app. From now on, whenever you open a .txt file, your iPad will remember this preference.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;My preference for .txt and .md files is to open in 1Writer and .pdf files to open in the default Preview in iPadOS.&lt;/p&gt;
+&lt;p&gt;Remember, iOS doesn’t have a universal way to set a default app for file types, but this method works for accessing files with your preferred app. This works the same way in iOS on iPhone.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>How to scan to “text” on iPhone</title>
+    <link href="https://ldstephens.me/posts/how-to-scan-to-text-on-iphone/" />
+    <updated>2024-06-15T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/how-to-scan-to-text-on-iphone/</id>
+    <content type="html">&lt;p&gt;Posted on June 15, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;Hey friends, have you ever wanted to scan a document and have it scan to “text” instead of PDF or JPEG? Well, now you can with Simple Scan.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://agiletortoise.com/simple-scan/&quot;&gt;Simple Scan&lt;/a&gt; by Greg Pierce of Agile Tortoise is a portable scanner app for iPhones. It allows you to capture high-quality scans of papers, receipts, and photos with just a few taps. You can save your scans as PDF or JPEG files and easily share them via email or cloud services. In addition to PDF or JPEG with &lt;a href=&quot;https://agiletortoise.com/simple-scan/changelog&quot;&gt;version 5&lt;/a&gt; you can now &lt;strong&gt;scan to text&lt;/strong&gt; “&lt;em&gt;“Text” format option shares on the text recognized by optical character recognition as plain text. This can be output to a text file, or shared to other applications as text.&lt;/em&gt;“&lt;/p&gt;
+&lt;p&gt;I have a workflow where I can scan a document to “text” and share it directly into &lt;a href=&quot;https://getdrafts.com/&quot;&gt;Drafts&lt;/a&gt; Greg&#39;s other great app.&lt;/p&gt;
+&lt;p&gt;Check it out.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>GoodLinks to iA Writer Custom Actions</title>
+    <link href="https://ldstephens.me/posts/goodlinks-to-ia-writer-custom-actions/" />
+    <updated>2024-06-17T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/goodlinks-to-ia-writer-custom-actions/</id>
+    <content type="html">&lt;p&gt;Posted on June 17, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;Hey friends, as I mentioned the other day, I’m switching to &lt;a href=&quot;https://ia.net/writer&quot;&gt;iA Writer&lt;/a&gt;for my blogging and writing. This means capturing my ideas directly in iA Writer. Since &lt;a href=&quot;https://goodlinks.app/&quot;&gt;GoodLinks&lt;/a&gt; is my go-to read-it-later app, I’ve created some Custom Actions that seamlessly transfer content from GoodLinks to iA Writer.&lt;/p&gt;
+&lt;p&gt;Previously, I wrote about &lt;a href=&quot;https://ldstephens.me/how-to-create-custom-actions-in-goodlinks&quot;&gt;creating Custom Actions&lt;/a&gt; in GoodLinks and it included actions for sending content to Drafts. I’m excited to share three Custom Actions for sending content from GoodLinks to iA Writer with you.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title, Author, URL, Selection to iA&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ia-writer://x-callback-url/new?text=[title]%0A{_}[author]{_}%0A[url]%0A[selection-text]&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;This action sends the title, author, URL, and selected text in the active article to iA Writer as plain text.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Selection - iA&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ia-writer://x-callback-url/new?text=[selection-text]&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;This action sends the selected text in the active article to iA Writer as plain text.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Markdown Title, URL - iA&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ia-writer://x-callback-url/new?text={[}[title]{]}{(}[url]{)}&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;This action sends the title and URL of the active article to iA Writer as markdown.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Easier Blogging Platforms</title>
+    <link href="https://ldstephens.me/posts/easier-blogging-platforms/" />
+    <updated>2024-07-12T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/easier-blogging-platforms/</id>
+    <content type="html">&lt;p&gt;Posted on July 12, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;The other day I came across David Kennedy’s blog and as I always do when I discover a new indie blog I read his About page and scanned his Archive for articles I might be interested in reading.&lt;/p&gt;
+&lt;p&gt;David’s &lt;a href=&quot;https://davidakennedy.com/blog/easy-websites/&quot;&gt;Easy Websites&lt;/a&gt; post was a response to a post by Giles Turnbull “&lt;a href=&quot;https://gilest.org/indie-easy.html&quot;&gt;Make the indie web easier&lt;/a&gt;”.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We need more self-hosted platforms for personal publishing that &lt;em&gt;aren’t Wordpress&lt;/em&gt;. And don’t point me to Hugo or Netlify or Eleventy or all those things - all of them are great, but none of them are simple enough. We need web publishing tools that do not require users to open the Terminal &lt;em&gt;at all&lt;/em&gt;. And we need lots of them.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Like David, I agree with Giles. I’ve been blogging in some form for over 20 years. Most of that time on WordPress.com.&lt;/p&gt;
+&lt;p&gt;I used to love WordPress but in my opinion, it has become way too complicated to use for personal blogs. It’s especially complicated for someone just starting.&lt;/p&gt;
+&lt;p&gt;If you’re wanting to get started with a personal blog I recommend &lt;a href=&quot;https://pika.page/&quot;&gt;Pika&lt;/a&gt;. I also like &lt;a href=&quot;https://bearblog.dev/&quot;&gt;Bear&lt;/a&gt; but it is a little more technical to get started.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>So You’re Thinking About Monetizing Your Blog</title>
+    <link href="https://ldstephens.me/posts/so-youre-thinking-about-monetizing-your-blog/" />
+    <updated>2024-07-13T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/so-youre-thinking-about-monetizing-your-blog/</id>
+    <content type="html">&lt;p&gt;Posted on July 13, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;Steve at An Almost Anonymous Blog &lt;a href=&quot;https://lwgrs.bearblog.dev/paywalls-pain-and-balance/&quot;&gt;writing about paywalls:&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I wrote to myself yesterday saying that I’m resigned to the fact that I’m not going to make “serious” money online. On one hand, it sucks to think that I have all these big plans for myself and realize that no, I’m not going to make a living out of this. On the other hand, &lt;strong&gt;it’s freeing: I can write anything I want without worrying about the quality, or feel like I need to be a “content creator”.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Lately, I’ve noticed a growing trend among fellow indie bloggers attempting to monetize their blog. It’s become apparent that something fundamental has changed. The content I once enjoyed reading regularly has changed, and unfortunately, not for the better. These bloggers seem to be adjusting their writing style and content strategy, likely in pursuit of attracting more subscribers. And the frequency of their posts has increased, but the substance has dwindled.&lt;/p&gt;
+&lt;p&gt;The question that lingers is whether the income generated from these efforts significantly impacts their lives financially. I bet that in 99.9% of cases it doesn’t. By switching to a monetized model for your blog you will probably piss off a lot of your faithful readers. So why bother?&lt;/p&gt;
+&lt;p&gt;Congrats to Steve for realizing that he’s not going to make a living from his blog. I’m sure his readers are happy as well.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>10 Years Loving Fastmail</title>
+    <link href="https://ldstephens.me/posts/10-years-loving-fastmail/" />
+    <updated>2024-07-15T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/10-years-loving-fastmail/</id>
+    <content type="html">&lt;p&gt;Posted on July 15, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;Hey friends, I want to share my experience with &lt;a href=&quot;https://www.fastmail.com/?STKI=14726057&quot;&gt;Fastmail&lt;/a&gt;. I’ve been using it for a whole decade now, and it’s still fucking fantastic!&lt;/p&gt;
+&lt;p&gt;Fastmail’s clean and user-friendly interface, with tons of features that let you organize your inbox exactly how you like it. They also prioritize top-notch customer support. Whenever I’ve had a question or issue, like I did today, their team has been quick, friendly, and always resolved it for me.&lt;/p&gt;
+&lt;p&gt;Fastmail keeps your emails safe and secure, without any data snooping. Plus, Fastmail integrates contacts and calendars directly into your email. And the best part? You can access your emails, contacts, and calendars from any device, anywhere.&lt;/p&gt;
+&lt;p&gt;Fastmail offers a &lt;a href=&quot;https://www.fastmail.com/?STKI=14726057&quot;&gt;free 30-day trial&lt;/a&gt; (no credit card needed!), so give it a try? You might just love it as much as I do.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Remove the Floating Keyboard Bar When Using an External Keyboard on Your iPad</title>
+    <link href="https://ldstephens.me/posts/remove-the-floating-keyboard-bar-when-using-an-external-keyboard-on-your-ipad/" />
+    <updated>2024-07-17T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/remove-the-floating-keyboard-bar-when-using-an-external-keyboard-on-your-ipad/</id>
+    <content type="html">&lt;p&gt;Posted on July 17, 2024 by Loren&lt;/p&gt;
+&lt;p&gt;Hey friends, here&#39;s a quick tip for iPad users: If you use an external keyboard, you might find the floating Shortcuts bar obstructing your view. To hide it, tap the keyboard icon on the bar and select &amp;quot;Minimize&amp;quot; or drag the bar to a corner. This keeps it out of your way.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
     <title>The proper order for listing the modifier keys in a keyboard shortcut on Mac</title>
     <link href="https://ldstephens.me/posts/the-proper-order-for-listing-the-modifier-keys-in-a-keyboard-shortcut-on-mac/" />
     <updated>2024-07-24T00:00:00Z</updated>

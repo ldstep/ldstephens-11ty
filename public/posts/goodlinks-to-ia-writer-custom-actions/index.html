@@ -20,33 +20,36 @@
 <div class="wrapper post">
   <div>
     
-    <h1 class='postTitle'>The proper order for listing the modifier keys in a keyboard shortcut on Mac</h1>
+    <h1 class='postTitle'>GoodLinks to iA Writer Custom Actions</h1>
 
     
     
     
-    <p>Posted on July 24, 2024 by Loren</p>
-<p>If you write about Mac keyboard shortcuts, as I do there’s a proper order for listing the modifier keys in a shortcut.</p>
-<p><a href="https://leancrew.com/all-this/2017/11/modifier-key-order/">Dr. Drang</a></p>
-<blockquote>
-<p>The proper order is similar to how you see them down at the bottom left of your keyboard.</p>
-<p>Control (⌃), Option (⌥), and Command (⌘) always go in that order. The oddball is the Shift(⇧) key, which sneaks in just in front of Command.</p>
-<p>Keyboard Maestro recognizes this standard order and presents its “hot key” shortcut the same way.</p>
-</blockquote>
-<p><img src="http://leancrew.com/all-this/images2017/20171119-Keyboard%20Maestro%20hot%20key%20field.png" alt="Keyboard Maestro hot key field" title="Keyboard Maestro hot key field"></p>
+    <p>Posted on June 17, 2024 by Loren</p>
+<p>Hey friends, as I mentioned the other day, I’m switching to <a href="https://ia.net/writer">iA Writer</a>for my blogging and writing. This means capturing my ideas directly in iA Writer. Since <a href="https://goodlinks.app/">GoodLinks</a> is my go-to read-it-later app, I’ve created some Custom Actions that seamlessly transfer content from GoodLinks to iA Writer.</p>
+<p>Previously, I wrote about <a href="https://ldstephens.me/how-to-create-custom-actions-in-goodlinks">creating Custom Actions</a> in GoodLinks and it included actions for sending content to Drafts. I’m excited to share three Custom Actions for sending content from GoodLinks to iA Writer with you.</p>
+<p><strong>Title, Author, URL, Selection to iA</strong></p>
+<p><code>ia-writer://x-callback-url/new?text=[title]%0A{_}[author]{_}%0A[url]%0A[selection-text]</code></p>
+<p>This action sends the title, author, URL, and selected text in the active article to iA Writer as plain text.</p>
+<p><strong>Selection - iA</strong></p>
+<p><code>ia-writer://x-callback-url/new?text=[selection-text]</code></p>
+<p>This action sends the selected text in the active article to iA Writer as plain text.</p>
+<p><strong>Markdown Title, URL - iA</strong></p>
+<p><code>ia-writer://x-callback-url/new?text={[}[title]{]}{(}[url]{)}</code></p>
+<p>This action sends the title and URL of the active article to iA Writer as markdown.</p>
 
     <div class="controls">
     
     
       <p>
         <strong>Previous post</strong>: 
-        <a class="previous" href="/posts/goodlinks-highlighting-is-here/">Goodlinks - Highlighting is Here!</a>
+        <a class="previous" href="/posts/easier-blogging-platforms/">Easier Blogging Platforms</a>
       </p>
     
     
       <p>
         <strong>Next post</strong>: 
-        <a class="next" href="/posts/remove-the-floating-keyboard-bar-when-using-an-external-keyboard-on-your-ipad/">Remove the Floating Keyboard Bar When Using an External Keyboard on Your iPad</a>
+        <a class="next" href="/posts/how-to-scan-to-text-on-iphone/">How to scan to “text” on iPhone</a>
       </p>
     
     </div>
