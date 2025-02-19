@@ -10,6 +10,106 @@
     <name>ldstephens</name>
   </author>
   <entry>
+    <title>Launch Mac apps with keyboard shortcuts | Keyboard Maestro</title>
+    <link href="https://ldstephens.me/posts/launch-mac-apps-with-keyboard-shortcuts-keyboard-maestro/" />
+    <updated>2022-02-24T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/launch-mac-apps-with-keyboard-shortcuts-keyboard-maestro/</id>
+    <content type="html">&lt;p&gt;&lt;em&gt;24 Feb, 2022&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This morning as I sat down at my iMac to start my day, the first thing I did was launch &lt;a href=&quot;https://culturedcode.com/things/&quot;&gt;Things&lt;/a&gt;, &lt;a href=&quot;https://getdrafts.com/&quot;&gt;Drafts&lt;/a&gt;, &lt;a href=&quot;https://ulysses.app/&quot;&gt;Ulysses&lt;/a&gt;, and Safari. I do this using keyboard shortcuts. While doing this, it occurred to me that this isn’t the way most people launch apps on their Mac, so I want to share how I do this with you.&lt;/p&gt;
+&lt;p&gt;Using keyboard shortcuts lets you perform actions faster and more efficiently, cutting down on mouse and trackpad usage. So, how do I create these keyboard shortcuts? I do it using &lt;a href=&quot;https://www.keyboardmaestro.com/main/&quot;&gt;Keyboard Maestro&lt;/a&gt;. Within Keyboard Maestro I have a Group called Launch Apps. This is where all my launcher macros live. Here’s the launcher macro, which you can duplicate:&lt;img src=&quot;https://i.imgur.com/MM6uVOx.png&quot; alt=&quot;&quot;&gt;Repeat this for all the apps that you would like to launch using a keyboard shortcut. If you create the macro the way I have, the hotkey will show and hide the app.&lt;/p&gt;
+&lt;p&gt;Tomorrow I’ll walk you through how to launch apps with keyboard shortcuts using &lt;a href=&quot;https://www.alfredapp.com/&quot;&gt;Alfred&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Launch Mac apps with keyboard shortcuts using Alfred</title>
+    <link href="https://ldstephens.me/posts/launch-mac-apps-with-keyboard-shortcuts-using-alfred/" />
+    <updated>2022-02-25T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/launch-mac-apps-with-keyboard-shortcuts-using-alfred/</id>
+    <content type="html">&lt;p&gt;&lt;em&gt;25 Feb, 2022&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Yesterday, &lt;a href=&quot;https://ldstephens.me/launch-mac-apps-with-keyboard-shortcuts-keyboard-maestro&quot;&gt;I wrote&lt;/a&gt; about launching Mac apps with keyboard shortcuts using &lt;a href=&quot;https://www.keyboardmaestro.com/main/&quot;&gt;Keyboard Maestro&lt;/a&gt;. If you’re an &lt;a href=&quot;https://www.alfredapp.com/&quot;&gt;Alfred&lt;/a&gt; user, you can do the same thing with an Alfred workflow.&lt;/p&gt;
+&lt;p&gt;As an example, here’s my workflow to launch Safari with the hotkey ⌥S. You’ll need the &lt;a href=&quot;https://www.alfredapp.com/powerpack/&quot;&gt;PowerPack&lt;/a&gt; to do this.&lt;/p&gt;
+&lt;p&gt;Step one is to create a new blank workflow.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.snap.as/jAeGdksC.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Step two is to set up a hotkey trigger.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.snap.as/8IjBw1sU.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Step three is adding the Launch Apps action and dragging in the application(s) you want to open. The easiest way to do this is to search for the application or file in Alfred and drag it directly from Alfred&#39;s results into the action box.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.snap.as/qdTFSCgb.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.snap.as/yCyio0EF.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Optionally, check the &amp;quot;Toggle visibility for apps&amp;quot; to tell Alfred to show and hide the app. Connect the action to the hotkey to quickly launch the app.&lt;/p&gt;
+&lt;p&gt;Using keyboard shortcuts lets you perform actions faster and more efficiently, cutting down on mouse and trackpad usage.&lt;/p&gt;
+&lt;p&gt;In the next day or two, I’ll show you how to do this in &lt;a href=&quot;https://www.raycast.com/&quot;&gt;Raycast&lt;/a&gt;. It’s super simple. So download it today and in a couple of days, you’ll be launching apps with keyboard shortcuts. Remember it’s FREE.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Launch Mac apps with keyboard shortcuts using Raycast</title>
+    <link href="https://ldstephens.me/posts/launch-mac-apps-with-keyboard-shortcuts-using-raycast/" />
+    <updated>2022-02-28T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/launch-mac-apps-with-keyboard-shortcuts-using-raycast/</id>
+    <content type="html">&lt;p&gt;&lt;em&gt;28 Feb, 2022&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I’ve written about launching Mac apps with keyboard shortcuts using &lt;a href=&quot;https://ldstephens.me/launch-mac-apps-with-keyboard-shortcuts-keyboard-maestro&quot;&gt;Keyboard Maestro&lt;/a&gt; and &lt;a href=&quot;https://ldstephens.me/launch-mac-apps-with-keyboard-shortcuts-using-alfred&quot;&gt;Alfred&lt;/a&gt; now here’s how to do it using &lt;a href=&quot;https://www.raycast.com/&quot;&gt;Raycast&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;First launch Raycast (I use ⌥ spacebar). In the entry field type Extensions then select Applications from the Extensions list and for this example select Safari. Under the Hotkey tab, you’ll see Record Hotkey.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.snap.as/AmmhHoRk.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Click on the Safari Hotkey field and Record your keyboard shortcut. I used ⌥ S.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.snap.as/pkY3YFZd.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;That’s it! From now typing ⌥ S will launch Safari.&lt;/p&gt;
+&lt;p&gt;Using keyboard shortcuts lets you perform actions faster and more efficiently, cutting down on mouse and trackpad usage.&lt;/p&gt;
+&lt;p&gt;By the way, if you’re not using Alfred you should be using Raycast. It does almost everything that Alfred does and it’s FREE.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Fastmail vs ProtonMail - A Comparison</title>
+    <link href="https://ldstephens.me/posts/fastmail-vs-protonmail-a-comparison/" />
+    <updated>2022-03-24T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/fastmail-vs-protonmail-a-comparison/</id>
+    <content type="html">&lt;p&gt;&lt;em&gt;24 Mar, 2022&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;If you’re searching for a private alternative to Google’s Gmail, you need to read this. I started using &lt;a href=&quot;https://www.fastmail.com/?STKI=14726057&quot;&gt;Fastmail&lt;/a&gt; when I stopped using Gmail in 2015.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://fastmail.blog/privacy-security/fastmail-vs-protonmail/?STKI=14726057&quot;&gt;Fastmail Blog&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Looking for a private email service? We break down the similarities and differences between Fastmail and Protonmail.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;​[…]&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Fastmail, however, provides more of the features users expect from an email service, including an easy-to-use calendar and a powerful search function.&lt;/p&gt;
+&lt;p&gt;Another huge difference that sets Fastmail apart is that it offers users the ability to create hundreds of aliases. This allows you to decide which email address is used for what. This increases the level of privacy and puts more control in your hands. Also, Fastmail’s customer service and support are quick to respond, friendly, and are email experts happy to apply their knowledge to your situation.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;​If you&#39;re looking to upgrade your privacy and productivity and join the best in email, go sign up for your &lt;a href=&quot;https://www.fastmail.com/signup/?STKI=14726057&quot;&gt;free 30-day trial of Fastmail&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Quick Tip - How to delete individual clipboard items from Alfred&#39;s clipboard history</title>
+    <link href="https://ldstephens.me/posts/quick-tip-how-to-delete-individual-clipboard-items-from-alfreds-clipboard/" />
+    <updated>2023-02-06T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/quick-tip-how-to-delete-individual-clipboard-items-from-alfreds-clipboard/</id>
+    <content type="html">&lt;p&gt;Posted on February 6, 2023 by Loren&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.alfredapp.com/&quot;&gt;Alfred&lt;/a&gt; is the most used app on my Mac. Over the years I&#39;ve written several articles about how I use it &lt;a href=&quot;https://ldstephens.net/?s=alfred&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I use Alfred&#39;s built-in &lt;a href=&quot;https://www.alfredapp.com/help/features/clipboard/&quot;&gt;Clipboard History&lt;/a&gt; and occasionally I want to delete a specific clipboard item. I couldn&#39;t figure out how to do it or if I even could. I googled for an answer and found that Fn + Backspace will delete individual items. Okay, where and the hell is the Backspace key on a Mac keyboard? I&#39;m sure that 99.9% of you probably already know the answer but I didn&#39;t. The Backspace key on a Mac is the Delete key. So to delete an individual clipboard history item in Alfred you use Fn + Backspace (delete key).&lt;/p&gt;
+&lt;p&gt;Maybe this post will be helpful for another Alfred user.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Quick tip – Add Apps or Folders to the Mac Apple Mail Save As Menu</title>
+    <link href="https://ldstephens.me/posts/quick-tip-add-apps-or-folders-to-the-mac-apple-mail-save-as-menu/" />
+    <updated>2023-02-11T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/quick-tip-add-apps-or-folders-to-the-mac-apple-mail-save-as-menu/</id>
+    <content type="html">&lt;p&gt;Posted on February 11, 2023 by Loren&lt;/p&gt;
+&lt;p&gt;I wasn&#39;t aware of this feature and I&#39;m guessing I&#39;m not the only one so I thought I’d share how to add items to the Mac Apple Mail “Save as” menu. I’ve added GoodNotes, My Inbox, Apple Notes, and DEVONthink to this menu.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.snap.as/jgNsozh8.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Here&#39;s how you do it, Select “Print” (Cmd+P) and then, “Edit Menu” and then add or delete apps or folders.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://talk.macpowerusers.com/t/how-to-add-apps-to-the-apple-mail-save-as-menu/32573&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>How to Fake a Dropped Call on iPhone</title>
+    <link href="https://ldstephens.me/posts/how-to-fake-a-dropped-call-on-iphone/" />
+    <updated>2023-02-12T00:00:00Z</updated>
+    <id>https://ldstephens.me/posts/how-to-fake-a-dropped-call-on-iphone/</id>
+    <content type="html">&lt;p&gt;Posted on February 12, 2023 by Loren&lt;/p&gt;
+&lt;p&gt;I bet you&#39;ve been on a phone call you wanted to end and couldn&#39;t come up with a way to do it. A dropped call is the perfect solution!&lt;/p&gt;
+&lt;p&gt;You can simulate a dropped call on an iPhone by turning on Airplane Mode. This can be done through Control Center by swiping down from the top right corner of the display and tapping on the Airplane icon or through the Settings app by toggling the Airplane Mode switch. The Airplane Mode disconnects all cellular and network connections on your iPhone and results in an active call being dropped even though the reason for the drop was initiated by the user and not by poor service or network issues.&lt;/p&gt;
+&lt;p&gt;I just learned &lt;a href=&quot;https://osxdaily.com/2023/02/08/how-fake-drop-call-iphone/&quot;&gt;this little trick&lt;/a&gt; the other day and I thought I would share it.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
     <title>7 Reasons why I register domains with Hover</title>
     <link href="https://ldstephens.me/posts/7-reasons-why-i-register-domains-with-hover/" />
     <updated>2023-02-23T00:00:00Z</updated>
