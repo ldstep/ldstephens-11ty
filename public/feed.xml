@@ -4,7 +4,7 @@
   <subtitle>A blog by ldstephens.</subtitle>
   <link href="https://ldstephens.me/feed.xml" rel="self" />
   <link href="https://ldstephens.me/" />
-  <updated>2025-02-13T00:00:00Z</updated>
+  <updated>2025-02-19T19:39:26Z</updated>
   <id>https://ldstephens.me/</id>
   <author>
     <name>ldstephens</name>
@@ -2339,6 +2339,18 @@ nav a:hover {
     <content type="html">&lt;p&gt;Posted on February 13, 2025 by Loren&lt;/p&gt;
 &lt;p&gt;James at James’ Coffee Blog created a &lt;a href=&quot;https://jamesg.blog/2025/02/13/html-quiz&quot;&gt;fun quiz&lt;/a&gt; called “Which HTML element are you?” It has ten questions.&lt;/p&gt;
 &lt;p&gt;I took the quiz and “I’m the &amp;lt;blockquote&amp;gt; element! You’re great at gathering ideas from different sources and putting them together”.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>This post was generated using Eleventy</title>
+    <link href="https://ldstephens.me/posts/this-post-was-generated-using-eleventy/" />
+    <updated>2025-02-19T19:39:26Z</updated>
+    <id>https://ldstephens.me/posts/this-post-was-generated-using-eleventy/</id>
+    <content type="html">&lt;p&gt;Posted on February 19, 2025 by Loren&lt;/p&gt;
+&lt;p&gt;As the title suggests, this blog is now generated using &lt;a href=&quot;https://www.11ty.dev/&quot;&gt;Eleventy&lt;/a&gt; also known as 11ty. You might remember that I had planned to rebuild the blog using 11ty, and after a lot of trial and error, I finally made it happen. The process wasn&#39;t easy, but I&#39;ve learned a ton.&lt;/p&gt;
+&lt;p&gt;The difference between a plain static site and one generated with Eleventy is huge.&lt;/p&gt;
+&lt;p&gt;When managing a static site manually, everything had to be created and organized by hand HTML, CSS, and all the files. Each page was its own separate HTML file, so if something like the navigation needed updating, every page had to be changed individually. There was no templating, no automation just raw HTML, written line by line.&lt;/p&gt;
+&lt;p&gt;With Eleventy and Nunjucks, things are much easier. Content can be written in Markdown or Nunjucks templates, and Eleventy takes care of generating the final HTML. Instead of repeating the same structure on every page, layouts can be created and reused. Updates are simple--changing a single template regenerates the entire site. Data from JSON files or APIs can be pulled in to dynamically create pages. It&#39;s a much more efficient and flexible way to manage a static site compared to doing everything manually. And, the Eleventy RSS plugin automatically updates and processes an RSS feed whenever a new post is added.&lt;/p&gt;
 </content>
   </entry>
 </feed>
