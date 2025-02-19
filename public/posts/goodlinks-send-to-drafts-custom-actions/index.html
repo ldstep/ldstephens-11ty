@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      
+      <meta charset="utf-8" />
+      <link rel="icon" type="image/png" href="/favicon.png" />
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+      <title>ldstephens</title>
+      <meta name="description" content="My 11ty blog" />
+      <link rel="stylesheet" type="text/css" href="/css/style.css" />
+      <!-- Removed SEO tag -->
+   </head>
+   <body class="tmpl-home">
+      <h1><a href="/">ldstephens</a></h1>
+      <main>
+         
+         
+
+
+<div class="wrapper post">
+  <div>
+    
+    <h1 class='postTitle'>Goodlinks send to Drafts Custom Actions</h1>
+
+    
+    
+    
+    <p>Posted on December 20, 2023 by Loren</p>
+<p>If you use <a href="https://goodlinks.app/">Goodlinks</a> and <a href="https://getdrafts.com/">Drafts</a>, I hope you're taking advantage of Custom Actions. Custom Actions allow you to create your actions to export and share your saved bookmarks. Additionally, you can trigger URL schemes.</p>
+<p>A while back <a href="https://medium.com/@ldstephens/how-to-create-custom-actions-in-goodlinks-4dbe4b87c881">I wrote</a> the following about Goodlinks:</p>
+<blockquote>
+<p>I love Goodlinks as my read-it-later app. Even though I love it and think that it's the best reading experience of all read-it-later apps I’ve still been using Instapaper for its Share All Notes feature.</p>
+</blockquote>
+<p>In the latest release, version 1.8.5, Goodlinks introduced support for new custom action tags that are going to let me eliminate the need for Instapaper's Share All Notes: [selection-html], [selection-markdown], and [selection-text] on iOS and iPadOS. These tags will be handy as Goodlinks lacks a built-in highlighting and export highlights feature. Now, I can select text in an article and seamlessly send the selection to Drafts. This is especially handy for creating link posts.</p>
+<p>Here are my five most used Goodlinks send to Drafts actions, which include two new actions specifically for selected text:</p>
+<p><strong>Markdown Title, URL – Drafts</strong></p>
+<p><code>drafts://create?text={[}[title]{]}{(}[url]{)}</code></p>
+<p>This action sends the title and URL of the active article to Drafts as markdown.</p>
+<p><strong>Markdown Title, URL, Selection – Drafts</strong></p>
+<p><code>drafts://create?text={[}[title]{]}{(}[url]{)}{ }[selection-text]</code></p>
+<p>This action sends the active article's title, URL, and selected text to Drafts as markdown.</p>
+<p><strong>Selection – Drafts</strong></p>
+<p><code>drafts://create?text=[selection-text]</code></p>
+<p>This action sends the selected text in the active article to Drafts as plain text.</p>
+<p><strong>Title, Author, URL, Selection – Drafts</strong></p>
+<p><code>drafts://create?text={# }[title]%0A{*}[author]{*}%0A[url]%0A[selection-text]</code></p>
+<p>This action sends the title, author, URL, and selected text in the active article to Drafts as plain text.</p>
+<p><strong>Markdown Title, URL, Summary – Drafts</strong></p>
+<p><code>drafts://create?text={[}[title]{]}{(}[url]{)}{ }[summary]</code></p>
+<p>This action sends the title, URL, and summary of the active article to Drafts as markdown.</p>
+
+    <div class="controls">
+    
+    
+      <p>
+        <strong>Previous post</strong>: 
+        <a class="previous" href="/posts/from-floppies-to-iphones-my-40-year-love-affair-with-technology-and-its-not-over-yet/">From Floppies to iPhones - My 40-Year Love Affair with Technology (and It&#39;s Not Over Yet!)</a>
+      </p>
+    
+    
+      <p>
+        <strong>Next post</strong>: 
+        <a class="next" href="/posts/i-hated-writing-with-the-apple-pencil-on-my-ipad/">I hated writing with the Apple Pencil on my iPad. Not anymore!</a>
+      </p>
+    
+    </div>
+  </div>
+</div>
+         <footer class="footer">
+            <div class="links">
+               <a href="/">Home</a>
+               <span class="divider">|</span>
+               <a href="/posts">Blog</a>
+               <span class="divider">|</span>
+               <a href="/uses">Uses</a>
+               <span class="divider">| </span>
+               <a href="/colophon">Colophon</a> |
+               <span class="divider"> </span>
+               <a href="/notes">Notes</a>
+            </div>
+            <p>
+               <a href="https://ldstephens.me/feed.xml">RSS Feed</a> |
+               <a href="https://letterbird.co/ldstephens">Email Me</a>
+            </p>
+            <p>
+               This work is licensed under
+               <a
+                  href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1"
+                  >CC BY-SA 4.0</a
+               >
+            </p>
+         </footer>
+      </main>
+   </body>
+</html>
