@@ -4,7 +4,7 @@
   <subtitle>A blog by ldstephens.</subtitle>
   <link href="https://ldstephens.me/feed.xml" rel="self" />
   <link href="https://ldstephens.me/" />
-  <updated>2025-02-19T19:39:26Z</updated>
+  <updated>2025-02-20T15:15:40Z</updated>
   <id>https://ldstephens.me/</id>
   <author>
     <name>ldstephens</name>
@@ -2351,6 +2351,19 @@ nav a:hover {
 &lt;p&gt;The difference between a plain static site and one generated with Eleventy is huge.&lt;/p&gt;
 &lt;p&gt;When managing a static site manually, everything had to be created and organized by hand HTML, CSS, and all the files. Each page was its own separate HTML file, so if something like the navigation needed updating, every page had to be changed individually. There was no templating, no automation just raw HTML, written line by line.&lt;/p&gt;
 &lt;p&gt;With Eleventy and Nunjucks, things are much easier. Content can be written in Markdown or Nunjucks templates, and Eleventy takes care of generating the final HTML. Instead of repeating the same structure on every page, layouts can be created and reused. Updates are simple--changing a single template regenerates the entire site. Data from JSON files or APIs can be pulled in to dynamically create pages. It&#39;s a much more efficient and flexible way to manage a static site compared to doing everything manually. And, the Eleventy RSS plugin automatically updates and processes an RSS feed whenever a new post is added.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Ditching my Feedbin subscription</title>
+    <link href="https://ldstephens.me/posts/ditching-my-feedbin-subscription/" />
+    <updated>2025-02-20T15:15:40Z</updated>
+    <id>https://ldstephens.me/posts/ditching-my-feedbin-subscription/</id>
+    <content type="html">&lt;p&gt;Posted on February 20, 2025 by Loren&lt;/p&gt;
+&lt;p&gt;For the last three years, I’ve been using Feedbin as the RSS sync engine for Reeder, my go-to feed reader. But last year, I let my Feedbin subscription expire. I knew iCloud sync in Reeder was pretty shitty from past experience, but I was hoping it had gotten better. It hadn’t!&lt;/p&gt;
+&lt;p&gt;After a few weeks of dealing with iCloud sync’s painfully slow performance in Reeder, I decided to try NetNewsWire with iCloud sync instead. NetNewsWire’s iCloud sync was almost as fast if not as fast as Feedbin. But since I still wanted to use Reeder, I caved and renewed my Feedbin subscription.&lt;/p&gt;
+&lt;p&gt;This year though, I’m not doing that again. Paying $50 a year to use Reeder doesn’t make sense anymore.&lt;/p&gt;
+&lt;p&gt;My Feedbin renewal is coming up in a couple of months, and I’ve made up my mind I’m not renewing. So today, I updated my feeds in NetNewsWire and started using it full-time. That way, by the time my Feedbin subscription expires, I’ll be comfortable with the switch.&lt;/p&gt;
+&lt;p&gt;No more paying extra just to use one app.&lt;/p&gt;
 </content>
   </entry>
 </feed>
