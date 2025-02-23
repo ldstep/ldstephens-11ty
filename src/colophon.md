@@ -6,7 +6,7 @@ layout: layouts/page.njk
 
 This blog is a static site built with [11ty](https://www.11ty.dev/), using [HTML and CSS](https://htmlforpeople.com/), and hosted on [Netlify](https://www.netlify.com/). It automatically deploys whenever I commit changes to the [public GitHub repo](https://github.com/ldstep/ldstephens-11ty).
 
-The domain is registered through [Hover](https://hover.com/). Analytics are by [Plausible](https://plausible.io/).
+The domain is registered through [Hover](https://hover.com/). Analytics are by [tinylytics](https://tinylytics.app/).
 
 When adding new posts, changing the design, or adding new features, that is done in [VS Code](https://code.visualstudio.com/).
 
