@@ -20,27 +20,28 @@
 <div class="wrapper post">
   <div>
     
-    <h1 class='postTitle'>Capture, Process, Send</h1>
+    <h1 class='postTitle'>Solving the BBEdit 15.1.4 Script Quarantine Issue</h1>
 
     
     
     
-    <p>Posted on February 22, 2025 by Loren</p>
-<p>I was thinking about this today so I wanted to share it. <a href="https://getdrafts.com">Drafts</a> is where I capture everything except to-do items, which I capture in <a href="https://culturedcode.com/things/">Things</a>. Anything related to text, except code, is done in Drafts. Once I’ve finished writing, I've created actions to send the text as a file to its final destination. Nothing remains in Drafts.</p>
-<p><img src="https://i.imgur.com/oj73vWw.png" alt=""></p>
+    <p>Posted on February 23, 2025 by Loren</p>
+<p>Hey friends, if you're like me and use BBEdit, you might've run into a weird error after the 15.1.4 update. Basically, your scripts suddenly stop working, and you get this message: 'This script file has been quarantined by macOS (application error code: 13312)'. Super annoying. I reached out to BBEdit support, and they gave me the fix. I'm sharing it here so you don't have to pull your hair out!</p>
+<blockquote>
+<p>Made a change so that AppleScript execution, whether implicit (as in Startup Items or text factories) or explicit (via the Script menu or other UI invocation) will fail if the script file has been quarantined by macOS.</p>
+<p>The OS will generally quarantine files that have been downloaded, but may do so for other reasons; there are various tools for correcting this, but the most straightforward is probably the <code>xattr</code> command line tool.</p>
+<p>The following Terminal command will remove quarantine from any given file (use the actual File path rather than &quot;/path/to/file&quot;):</p>
+<p>xattr -d com.apple.quarantine /path/to/file</p>
+</blockquote>
+<p>This was in the release notes, but who reads the release notes. Obviously not me.</p>
 
     <div class="controls">
     
     
-      <p>
-        <strong>Previous post</strong>: 
-        <a class="previous" href="/posts/solving-the-bbedit-1514-script-quarantine-issue/">Solving the BBEdit 15.1.4 Script Quarantine Issue</a>
-      </p>
-    
     
       <p>
         <strong>Next post</strong>: 
-        <a class="next" href="/posts/ditching-my-feedbin-subscription/">Ditching my Feedbin subscription</a>
+        <a class="next" href="/posts/capture-process-send/">Capture, Process, Send</a>
       </p>
     
     </div>
