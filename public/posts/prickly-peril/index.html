@@ -20,33 +20,23 @@
 <div class="wrapper post">
   <div>
     
-    <h1 class='postTitle'>Solving the BBEdit 15.1.4 Script Quarantine Issue</h1>
+    <h1 class='postTitle'>Prickly peril</h1>
 
     
     
     
-    <p>Posted on February 23, 2025 by Loren</p>
-<p>Hey friends, if you're like me and use BBEdit, you might've run into a weird error after the 15.1.4 update. Basically, your scripts suddenly stop working, and you get this message: 'This script file has been quarantined by macOS (application error code: 13312)'. Super annoying. I reached out to BBEdit support, and they gave me the fix. I'm sharing it here so you don't have to pull your hair out!</p>
-<blockquote>
-<p>Made a change so that AppleScript execution, whether implicit (as in Startup Items or text factories) or explicit (via the Script menu or other UI invocation) will fail if the script file has been quarantined by macOS.</p>
-<p>The OS will generally quarantine files that have been downloaded, but may do so for other reasons; there are various tools for correcting this, but the most straightforward is probably the <code>xattr</code> command line tool.</p>
-<p>The following Terminal command will remove quarantine from any given file (use the actual File path rather than &quot;/path/to/file&quot;):</p>
-<p>xattr -d com.apple.quarantine /path/to/file</p>
-</blockquote>
-<p>This was in the release notes, but who reads the release notes. Obviously not me.</p>
+    <p>Posted on February 24, 2025 by Loren</p>
+<p>Finally, a day warm enough to get outside. First on the agenda was trimming back those scraggly dead tree branches along the driveway.</p>
+<p>But the challenge was the greenbrier. If you've ever dealt with this, you know what I’m talking about. Common greenbrier is native to the eastern US, and it's made itself at home in our woodlands. They form dense, almost impenetrable thickets that take over everything. They have seriously sharp prickles. I learned that lesson despite wearing gloves. It's like botanical barbed wire.</p>
+<p>Today, I tackled a section of the thicket where our woodlands border the yard. It was a battle, to say the least. Cutting, pulling, and trying to avoid getting snagged by those fucking thorns. It's amazing how quickly this plant can take over.</p>
 
     <div class="controls">
     
     
-      <p>
-        <strong>Previous post</strong>: 
-        <a class="previous" href="/posts/prickly-peril/">Prickly peril</a>
-      </p>
-    
     
       <p>
         <strong>Next post</strong>: 
-        <a class="next" href="/posts/capture-process-send/">Capture, Process, Send</a>
+        <a class="next" href="/posts/solving-the-bbedit-1514-script-quarantine-issue/">Solving the BBEdit 15.1.4 Script Quarantine Issue</a>
       </p>
     
     </div>
