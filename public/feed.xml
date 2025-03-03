@@ -4,7 +4,7 @@
   <subtitle>A blog by ldstephens.</subtitle>
   <link href="https://ldstephens.me/feed.xml" rel="self" />
   <link href="https://ldstephens.me/" />
-  <updated>2025-03-02T15:31:48Z</updated>
+  <updated>2025-03-03T10:24:26Z</updated>
   <id>https://ldstephens.me/</id>
   <author>
     <name>ldstephens</name>
@@ -2426,6 +2426,15 @@ nav a:hover {
     <content type="html">&lt;p&gt;Posted on March 2, 2025 by Loren&lt;/p&gt;
 &lt;p&gt;Recently, I came across two insightful takes on how RSS feeds should be formatted—one from &lt;a href=&quot;https://thomasrigby.com/posts/should-your-rss-expose-full-content-or-a-snippet/&quot;&gt;Thomas Rigby&lt;/a&gt; and another from &lt;a href=&quot;https://multiline.co/mment/2023/12/let-an-rss-feed-be-a-reminder/&quot;&gt;Ashur Cabrera&lt;/a&gt;. Both explore the pros and cons of offering full-text content versus just a snippet in RSS feeds, and their differing perspectives got me thinking about my own stance on the issue.&lt;/p&gt;
 &lt;p&gt;While I prefer full-text RSS feeds, my reading habits have changed. I used to consume everything directly within my RSS reader or Goodlinks. Now, for personal blogs, I use Goodlinks as a collection tool. I save articles I want to read and then use a quick swipe gesture to open them in my browser. This allows me to appreciate the blog&#39;s design and website structure, which I&#39;ve come to enjoy.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>David Sparks - Cotypist Review</title>
+    <link href="https://ldstephens.me/posts/david-sparks-cotypist-review/" />
+    <updated>2025-03-03T10:24:26Z</updated>
+    <id>https://ldstephens.me/posts/david-sparks-cotypist-review/</id>
+    <content type="html">&lt;p&gt;Posted on March 3, 2025 by Loren&lt;/p&gt;
+&lt;p&gt;I just read David Sparks&#39; &lt;a href=&quot;https://www.macsparky.com/blog/2025/03/cotypist-ai-autocompletion-everywhere-on-your-mac/&quot;&gt;blog post&lt;/a&gt; about Cotypist, a new AI app that gives you autocompletion everywhere on your Mac. I’m trying it out. My initial worry is that it might clash with Apple&#39;s own autocomplete, since they both do the same thing. Right now, Cotypist&#39;s in beta and free for anyone who signs up. They&#39;re still working on how they&#39;ll charge for it later. If you want to know more, definitely check out David&#39;s post.&lt;/p&gt;
 </content>
   </entry>
 </feed>
