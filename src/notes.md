@@ -8,6 +8,14 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+March 4, 2025, at 8:37:58 AM
+
+> What I want to do is write. No worrying about who’s reading or what they think. Just me, my thoughts, and the web.
+
+[fLaMEd, Blogging For The Hell Of It](https://flamedfury.com/posts/blogging-for-the-hell-of-it/)
+
+---
+
 February 25, 2025, at 3:47:42 PM
 
 I've tried to use iA Writer so many times, but I just can't stick with it. The app is way too opinionated and keeps forcing me to work in its own rigid way. I'm constantly fighting against how it wants me to do things.
