@@ -4,7 +4,7 @@
   <subtitle>A blog by ldstephens.</subtitle>
   <link href="https://ldstephens.me/feed.xml" rel="self" />
   <link href="https://ldstephens.me/" />
-  <updated>2025-03-14T12:27:52Z</updated>
+  <updated>2025-03-15T16:38:14Z</updated>
   <id>https://ldstephens.me/</id>
   <author>
     <name>ldstephens</name>
@@ -2490,6 +2490,19 @@ nav a:hover {
 &lt;p&gt;Which brings me to my fucking desire for the new M4 MacBook Air. The question is: just because I can buy it, should I?&lt;/p&gt;
 &lt;p&gt;Yes, the new Air has the M4 chip, 16GB of RAM, and is supposedly &amp;quot;&lt;a href=&quot;https://www.apple.com/newsroom/2025/03/apple-introduces-the-new-macbook-air-with-the-m4-chip-and-a-sky-blue-color/#:~:text=The%20M4%20chip%20features%20a,up%20to%202x%20faster%20than&amp;amp;text=M4%3A%20Performance%20to%20the%20Next%20Level&amp;amp;When%20compared%20to%20the%20fastest,up%20to%2023x%20faster%20performance&quot;&gt;2x faster&lt;/a&gt;&amp;quot; than the M1 for certain tasks. &lt;em&gt;But here&#39;s the thing, I do undemanding tasks. Even if the M4 is twice as fast, would I even notice? Probably not.&lt;/em&gt; Meanwhile, my M1 Air is in excellent shape. Battery health is at 96%, I&#39;ve only used 89GB of my 256GB storage, and it runs perfectly fine.&lt;/p&gt;
 &lt;p&gt;I wrote all this to remind myself that I &lt;em&gt;don&#39;t&lt;/em&gt; need to drop money on a new MacBook Air when my current one more than meets my needs.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>PSA - Amazon will log all Echo voice commands starting March 28</title>
+    <link href="https://ldstephens.me/posts/psa-amazon-will-log-all-echo-voice-commands-starting-march-28/" />
+    <updated>2025-03-15T16:38:14Z</updated>
+    <id>https://ldstephens.me/posts/psa-amazon-will-log-all-echo-voice-commands-starting-march-28/</id>
+    <content type="html">&lt;p&gt;Posted on March 15, 2025 by Loren&lt;/p&gt;
+&lt;p&gt;I don’t use Alexa but if you do you might want to consider if you want to continue using it.&lt;/p&gt;
+&lt;p&gt;Scharon Harding, &lt;a href=&quot;https://arstechnica.com/gadgets/2025/03/everything-you-say-to-your-echo-will-be-sent-to-amazon-starting-on-march-28/&quot;&gt;Ars Technica&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In an email sent to customers today, Amazon said that Echo users will no longer be able to set their devices to process Alexa requests locally and, therefore, avoid sending voice recordings to Amazon’s cloud. Amazon apparently sent the email to users with “Do Not Send Voice Recordings” enabled on their Echo. Starting on March 28, recordings of everything spoken to the Alexa living in Echo speakers and smart displays will automatically be sent to Amazon and processed in the cloud.[…] there are plenty of reasons why people wouldn&#39;t want Amazon to receive recordings of what they say to their personal device. For one, the idea of a conglomerate being able to listen to personal requests made in your home is, simply, unnerving.[…] Amazon &lt;a href=&quot;https://www.amazon.com/gp/help/customer/display.html?nodeId=201602230&quot;&gt;says&lt;/a&gt; it allows employees to listen to Alexa voice recordings to train its speech recognition and natural language understanding systems.&lt;/p&gt;
+&lt;/blockquote&gt;
 </content>
   </entry>
 </feed>
