@@ -8,6 +8,14 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+March 15, 2025, at 10:23:28 AM
+
+> Nothing feels fun right now. Most of the things I typically enjoy have become frustrating exercises.[…] It’s probably just another “trump-is-an-asshole” allergic reaction, but I’m finding it hard to shake.
+
+[Jack Baty](https://baty.net/journal/2025/03/13/today/)
+
+---
+
 March 7, 2025, at 9:57:48 AM
 
 > getting recognized as a blogger these days is rarely going to work. People are increasingly consuming different types of content these days, and this is largely due to the way AI is changing the way we interact with the web.
