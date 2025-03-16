@@ -8,6 +8,23 @@ Notes are shorter random posts, kinda like a microblog.
 
 ---
 
+March 16, 2025, at 11:05:31 AM
+
+> why write? like art i write not thinking about the reader but trying to compose my thoughts into some kind of cogent experience for me and bringing the reader along as sort of a secondary consideration.
+
+[why write right](https://mrbrianpuck.wordpress.com/2025/03/15/why-write-right/)
+​
+
+---
+
+March 16, 2025, at 11:04:56 AM
+
+> It benefits literally everyone except Apple’s shareholders if people keep their devices for years longer. Durable technology is bad business. Apple, of course, built it’s name on quality, so they can’t make their products bad. They need to be good enough for the prices they command, but not so good that you keep them too long.
+
+[Durable technology](https://gomakethings.com/durable-technology/)
+
+---
+
 March 15, 2025, at 10:23:28 AM
 
 > Nothing feels fun right now. Most of the things I typically enjoy have become frustrating exercises.[…] It’s probably just another “trump-is-an-asshole” allergic reaction, but I’m finding it hard to shake.
