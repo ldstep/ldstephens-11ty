@@ -4,7 +4,7 @@
   <subtitle>A blog by ldstephens.</subtitle>
   <link href="https://ldstephens.me/feed.xml" rel="self" />
   <link href="https://ldstephens.me/" />
-  <updated>2025-03-15T16:38:14Z</updated>
+  <updated>2025-03-17T12:53:03Z</updated>
   <id>https://ldstephens.me/</id>
   <author>
     <name>ldstephens</name>
@@ -2503,6 +2503,19 @@ nav a:hover {
 &lt;blockquote&gt;
 &lt;p&gt;In an email sent to customers today, Amazon said that Echo users will no longer be able to set their devices to process Alexa requests locally and, therefore, avoid sending voice recordings to Amazon’s cloud. Amazon apparently sent the email to users with “Do Not Send Voice Recordings” enabled on their Echo. Starting on March 28, recordings of everything spoken to the Alexa living in Echo speakers and smart displays will automatically be sent to Amazon and processed in the cloud.[…] there are plenty of reasons why people wouldn&#39;t want Amazon to receive recordings of what they say to their personal device. For one, the idea of a conglomerate being able to listen to personal requests made in your home is, simply, unnerving.[…] Amazon &lt;a href=&quot;https://www.amazon.com/gp/help/customer/display.html?nodeId=201602230&quot;&gt;says&lt;/a&gt; it allows employees to listen to Alexa voice recordings to train its speech recognition and natural language understanding systems.&lt;/p&gt;
 &lt;/blockquote&gt;
+</content>
+  </entry>
+  <entry>
+    <title>On - Is Apple Intelligence even possible?</title>
+    <link href="https://ldstephens.me/posts/on-is-apple-intelligence-even-possible/" />
+    <updated>2025-03-17T12:53:03Z</updated>
+    <id>https://ldstephens.me/posts/on-is-apple-intelligence-even-possible/</id>
+    <content type="html">&lt;p&gt;Posted on March 17, 2025 by Loren&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;With the Apple Intelligence and Siri delays, people have speculated on why it’s late. Maybe it’s about &lt;a href=&quot;https://simonwillison.net/2025/Mar/8/delaying-personalized-siri/&quot;&gt;getting the security right&lt;/a&gt;. Maybe it’s just buggy and taking longer than expected.[…] But what if Apple has discovered that it’s &lt;em&gt;not actually possible&lt;/em&gt;? AI is entirely new, with new requirements that stress the limits of hardware. Apple is attempting to cram a clever intermingling of data and Siri features into 8 GB of RAM. As a comparison, the largest version of DeepSeek R1 &lt;a href=&quot;https://www.youtube.com/watch?v=J4qwuCXyAcU&quot;&gt;can only be run on a brand new Mac Studio&lt;/a&gt; with the M3 Ultra and 512 GB of RAM.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.manton.org/2025/03/14/is-apple-intelligence-even-possible.html&quot;&gt;Manton Reece&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;That’s an interesting thought.&lt;/p&gt;
 </content>
   </entry>
 </feed>
