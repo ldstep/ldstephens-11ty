@@ -4,7 +4,7 @@
   <subtitle>A blog by ldstephens.</subtitle>
   <link href="https://ldstephens.me/feed.xml" rel="self" />
   <link href="https://ldstephens.me/" />
-  <updated>2025-03-20T09:25:58Z</updated>
+  <updated>2025-03-20T15:16:05Z</updated>
   <id>https://ldstephens.me/</id>
   <author>
     <name>ldstephens</name>
@@ -2526,6 +2526,42 @@ nav a:hover {
     <content type="html">&lt;p&gt;Posted on March 20, 2025 by Loren&lt;/p&gt;
 &lt;p&gt;Hey friends, just a heads-up for Mac users: there’s a &lt;a href=&quot;https://9to5mac.com/2025/03/20/this-is-one-of-the-most-sophisticated-phishing-attacks-ever-made-against-mac-users/&quot;&gt;new phishing scam&lt;/a&gt; going around. It starts with a fake security alert while you’re browsing, but this one goes a step further by freezing the page, making it seem like your Mac is locked making the scam feel more real. The goal is to trick you into entering your Apple ID and password.&lt;/p&gt;
 &lt;p&gt;If you see one of these popups and the page is frozen, press Command + Option + Esc, select Safari, and force quit to force quit the app.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>On - Using ChatGPT for tech support</title>
+    <link href="https://ldstephens.me/posts/on-using-chatgpt-for-tech-support/" />
+    <updated>2025-03-20T15:16:05Z</updated>
+    <id>https://ldstephens.me/posts/on-using-chatgpt-for-tech-support/</id>
+    <content type="html">&lt;p&gt;Posted on March 20, 2025 by Loren&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If you aren’t sure how to ask for help with software, try first asking ChatGPT or another AI chatbot to help figure out what’s going wrong. It has infinite time to help, and won’t mind if the problem turned out to be a random browser plug-in that was misbehaving.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;http://scripting.com/2025/03/20/151234.html?title=usingChatgptForTechSupport&quot;&gt;Dave Winer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I rely on ChatGPT for almost all my tech-related questions. Just the other day, I was setting up a new snippet in Alfred for the YAML front matter of a blog post. I wanted the timestamp format to be 2025-03-20T14:09:02Z, so I asked ChatGPT for the correct Alfred time and date syntax. It gave me this: &lt;code&gt;{date:yyyy-MM-dd&#39;T&#39;HH:mm:ss&#39;Z&#39;}&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Now, I have a snippet that instantly inserts the front matter into a document with the current date and time:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;---
+title:
+description:
+date: 2025-03-20T14:09:02Z
+tags:
+   - posts
+layout: layouts/post.njk
+---
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Way fucking easier than sifting through Google results, hoping to find the right answer. Here are some ways I’ve recently used ChatGPT for tech support:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Troubleshooting common software issues&lt;/li&gt;
+&lt;li&gt;Figuring out how to do something in an app&lt;/li&gt;
+&lt;li&gt;Troubleshooting macOS problems&lt;/li&gt;
+&lt;li&gt;Running commands in Terminal&lt;/li&gt;
+&lt;li&gt;Setting up and maintaining my 11ty-powered website&lt;/li&gt;
+&lt;li&gt;Fixing hosting and deployment issues with Netlify&lt;/li&gt;
+&lt;li&gt;Debugging HTML, CSS, and JavaScript&lt;/li&gt;
+&lt;li&gt;Navigating GitHub&lt;/li&gt;
+&lt;li&gt;Automating tasks with Shortcuts, AppleScript, and Automator&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you’re not using ChatGPT for tech support, give it a shot. It’s like having an expert on call minus the frustration of Googling.&lt;/p&gt;
 </content>
   </entry>
 </feed>
