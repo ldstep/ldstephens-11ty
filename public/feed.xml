@@ -4,7 +4,7 @@
   <subtitle>A blog by ldstephens.</subtitle>
   <link href="https://ldstephens.me/feed.xml" rel="self" />
   <link href="https://ldstephens.me/" />
-  <updated>2025-03-17T12:53:03Z</updated>
+  <updated>2025-03-20T09:25:58Z</updated>
   <id>https://ldstephens.me/</id>
   <author>
     <name>ldstephens</name>
@@ -2516,6 +2516,16 @@ nav a:hover {
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.manton.org/2025/03/14/is-apple-intelligence-even-possible.html&quot;&gt;Manton Reece&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;That’s an interesting thought.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Apple ID phishing alert</title>
+    <link href="https://ldstephens.me/posts/apple-id-phishing-alert/" />
+    <updated>2025-03-20T09:25:58Z</updated>
+    <id>https://ldstephens.me/posts/apple-id-phishing-alert/</id>
+    <content type="html">&lt;p&gt;Posted on March 20, 2025 by Loren&lt;/p&gt;
+&lt;p&gt;Hey friends, just a heads-up for Mac users: there’s a &lt;a href=&quot;https://9to5mac.com/2025/03/20/this-is-one-of-the-most-sophisticated-phishing-attacks-ever-made-against-mac-users/&quot;&gt;new phishing scam&lt;/a&gt; going around. It starts with a fake security alert while you’re browsing, but this one goes a step further by freezing the page, making it seem like your Mac is locked making the scam feel more real. The goal is to trick you into entering your Apple ID and password.&lt;/p&gt;
+&lt;p&gt;If you see one of these popups and the page is frozen, press Command + Option + Esc, select Safari, and force quit to force quit the app.&lt;/p&gt;
 </content>
   </entry>
 </feed>
