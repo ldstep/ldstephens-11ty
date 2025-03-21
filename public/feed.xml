@@ -4,7 +4,7 @@
   <subtitle>A blog by ldstephens.</subtitle>
   <link href="https://ldstephens.me/feed.xml" rel="self" />
   <link href="https://ldstephens.me/" />
-  <updated>2025-03-20T15:16:05Z</updated>
+  <updated>2025-03-21T15:21:12Z</updated>
   <id>https://ldstephens.me/</id>
   <author>
     <name>ldstephens</name>
@@ -2562,6 +2562,17 @@ layout: layouts/post.njk
 &lt;li&gt;Automating tasks with Shortcuts, AppleScript, and Automator&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;If you’re not using ChatGPT for tech support, give it a shot. It’s like having an expert on call minus the frustration of Googling.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>More thoughts on the M4 MacBook Air</title>
+    <link href="https://ldstephens.me/posts/more-thoughts-on-the-m4-macbook-air/" />
+    <updated>2025-03-21T15:21:12Z</updated>
+    <id>https://ldstephens.me/posts/more-thoughts-on-the-m4-macbook-air/</id>
+    <content type="html">&lt;p&gt;Posted on March 21, 2025 by Loren&lt;/p&gt;
+&lt;p&gt;Ben Lovejoy &lt;a href=&quot;https://9to5mac.com/2025/03/21/buying-a-five-year-old-macbook-air-was-the-right-decision-for-me/&quot;&gt;wrote this on 9to5Mac&lt;/a&gt;, and it hit home. He said, “Having had the chance to try out the new machine in an Apple Store, I&#39;m not &lt;em&gt;100%&lt;/em&gt; sure I&#39;d favor an upgrade even if it were the same price … […] But it doesn&#39;t offer any real benefit to me[…] In fact, when I visited an Apple Store to compare the M1 and M4 models side-by-side[…] But if like me your usage will be a mix of writing, other light tasks like email and web, and perhaps a bit of photo editing, then any Apple Silicon MacBook Air is good enough. At that point, you have to figure out whether any of the M4 features are worth the price difference to you.”&lt;/p&gt;
+&lt;p&gt;Ben&#39;s experience reinforces what &lt;a href=&quot;https://ldstephens.me/posts/thinking-about-the-m4-macbook-air/&quot;&gt;I wrote &lt;/a&gt;the other day. He actually went to an Apple Store and compared the M1 and M4 models side-by-side! And even after that, he wasn&#39;t convinced the upgrade was necessary for his workflow. That&#39;s exactly how I feel. I&#39;ve been using my M1 for everyday tasks, and it handles everything without breaking a sweat. If someone who&#39;s tested both models doesn&#39;t see a significant benefit, then I definitely don&#39;t need to upgrade.&lt;/p&gt;
+&lt;p&gt;It&#39;s tempting to get caught up in the hype of new tech, but Ben&#39;s quote is a great reminder to be realistic about my needs. Why spend extra money on something I won&#39;t even fully utilize? Ben&#39;s words have solidified my decision to stick with my M1 Air.&lt;/p&gt;
 </content>
   </entry>
 </feed>
