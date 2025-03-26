@@ -1,2 +1,1 @@
-# ldstephens-11ty
-ldstephens 11ty build
+ldstephens.me 11ty build
