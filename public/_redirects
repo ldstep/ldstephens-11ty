@@ -1,6 +1,10 @@
 # Exact path redirects first
 /feed /feed.xml 301
 
+# Proxy feed redirects
+/feed  https://ldstephens.net/feed  200!
+/feed.xml  https://ldstephens.net/feed.xml  200!
+
 # Specific page paths
 /blog /blog 200
 /uses /uses 200
