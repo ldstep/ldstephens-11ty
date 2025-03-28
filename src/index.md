@@ -4,8 +4,10 @@ layout: layouts/home.njk
 
 <div class="illo-container"></div>
 
-Hey there! I’m ldstephens, and welcome to my little corner of the internet.
+**Important Update -- March 28, 2025**
 
-Since 2016, I’ve been writing about how I use Apple gadgets and apps, and sharing tech tips that make my digital life easier. I also share my personal experiences, thoughts, and reflections here. (If you’re interested, you can find everything that I wrote between 2016 and 2022 mothballed [here](https://ldstephens.net/blog/)).
+Hey everyone, just a quick update--I won't be posting here anymore. From now on, all my content will be over at [_ldstephens.net_](https://ldstephens.net).
 
-I’m glad you stopped by!
+No need to update your RSS link--I've set up a redirect. But if you'd like to update it manually, the new feed is: [https://ldstephens.net/feed/feed.xml](https://ldstephens.net/feed/feed.xml).
+
+Thanks for sticking around! See you at the new place. 🚀
